@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="20">
+    <defs>
+        <linearGradient id="b" x2="0" y2="100%">
+            <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+            <stop offset="1" stop-opacity=".1"/>
+        </linearGradient>
+        <mask id="a">
+            <rect width="80" height="20" rx="3" fill="#fff"/>
+        </mask>
+    </defs>
+    <g mask="url(#a)">
+        <path fill="#000" d="M0 0h25v20H0z"/>
+        <path fill="#555" d="M25 0h55v20H25 z"/>
+        <path fill="url(#b)" d="M0 0h55v20H0z"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+        <text x="15" y="15" fill="#010101" fill-opacity=".3">my</text>
+        <text x="15" y="14" fill="#fff">my</text>
+        <text x="50" y="15" fill="#010101" fill-opacity=".3">Terminal</text>
+        <text x="50" y="14" fill="#f00">Terminal</text>
+    </g>
+</svg>

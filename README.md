@@ -5,5 +5,6 @@
 [![peer Dependency Status](https://david-dm.org/myTerminal/myTerminal.github.io/peer-status.svg)](https://david-dm.org/myTerminal/myTerminal.github.io#info=peerDependencies)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+[![myTerminal.github.io](badges/myTerminal.svg)](http://myterminal.github.io/)
 
 myTerminal's GitHub pages
