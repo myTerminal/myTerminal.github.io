@@ -2,7 +2,7 @@
   "name": "myTerminal.github.io",
   "version": "1.0.0",
   "description": "myTerminal's GitHub pages",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "package-script": "0.0.8"
   },
@@ -13,8 +13,8 @@
   },
   "scripts": {
     "install": "node installer.js",
-    "develop": "grunt develop",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "bower cache clean && bower install",
+    "develop": "grunt develop"
   },
   "repository": {
     "type": "git",
