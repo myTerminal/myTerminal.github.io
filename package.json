@@ -13,19 +13,20 @@
   },
   "scripts": {
     "install": "node installer.js",
-    "postinstall": "bower cache clean && bower install",
+    "postinstall": "bower cache clean && bower install && grunt",
     "develop": "grunt develop"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/myTerminal/myTerminal.github.io.git"
   },
+  "bugs": {
+    "url": "https://github.com/myTerminal/myTerminal.github.io/issues"
+  },
+  "homepage": "https://github.com/myTerminal/myTerminal.github.io#readme",
   "keywords": [
     "myTerminal"
   ],
   "author": "Mohammed Ismail Ansari <team.terminal@gmail.com>",
-  "license": "GPL-3.0",
-  "bugs": {
-    "url": "https://github.com/myTerminal/myTerminal.github.io/issues"
-  }
+  "license": "GPL-3.0"
 }
