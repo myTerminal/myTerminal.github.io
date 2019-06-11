@@ -5,8 +5,7 @@
     
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0" />
-    
-    <link type="text/css" rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css" />
+
     <link type="text/css" rel="stylesheet" href="build/styles/styles.css" />
   </head>
   <body>
@@ -20,15 +19,12 @@
           </p>
       </div>
     </div>
-    
-    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
     <script type="text/javascript">
-      $(document).ready(function () {
-        setTimeout(function () {
+      window.onload = function () {
+        window.setTimeout(function () {
           window.location = "http://ismail.teamfluxion.com";
         }, 5000);
-      });
+      };
     </script>
   </body>
 </html>
