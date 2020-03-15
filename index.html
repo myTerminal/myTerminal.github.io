@@ -1,30 +1,59 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Mohammed Ismail Ansari</title>
-    
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0" />
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0" />
 
-    <link type="text/css" rel="stylesheet" href="build/styles/styles.css" />
-  </head>
-  <body>
-    <div id="page-container">
-      <div id="card-container">
-          <p>
-            Still under construction, you'll be redirected to
-          </p>
-          <p>
-            <a href="http://ismail.teamfluxion.com">http://ismail.teamfluxion.com</a>
-          </p>
-      </div>
-    </div>
-    <script type="text/javascript">
-      window.onload = function () {
-        window.setTimeout(function () {
-          window.location = "http://ismail.teamfluxion.com";
-        }, 5000);
-      };
-    </script>
-  </body>
+        <title>github.com/myTerminal</title>
+
+        <style>
+         html {
+             background-color: #000;
+             color: #ccc;
+         }
+
+         body {
+             margin: 10px;
+             padding: 0;
+         }
+
+         .text-container {
+             font-size: 1.5em;
+             font-family: Courier;
+         }
+
+         .cursor {
+             animation-name: blink;
+             animation-duration: 0.5s;
+             animation-direction: alternate;
+             animation-iteration-count: infinite;
+             animation-timing-function: linear;
+         }
+
+         @keyframes blink {
+             0% {
+                 opacity: 0;
+             }
+
+             100% {
+                 opacity: 1;
+             }
+         }
+        </style>
+    </head>
+    <body>
+        <div class="text-container">
+            You're being redirected to <a href="http://ismail.teamfluxion.com">http://ismail.teamfluxion.com</a><span class="cursor">_</span>
+        </div>
+        <script type="text/javascript">
+         window.onload = function () {
+             window.setTimeout(
+                 function () {
+                     window.location.href = 'http://ismail.teamfluxion.com';
+                 },
+                 5000
+             );
+         };
+        </script>
+    </body>
 </html>
