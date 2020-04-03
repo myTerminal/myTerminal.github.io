@@ -23,6 +23,6 @@ Finally, I've also contributed to the community in other ways with:
 
 * My answers on [StackOverflow](http://stackoverflow.com/users/1749585/myterminal) (and other StackExchange communities)
 * Videos on [my YouTube channel](https://www.youtube.com/channel/UCuPRuuspWO9v2BEbgyL0wsg)
-* Posts on [my Dev.to profile](https://dev.to/myterminal) with over 1.2k+ followers
+* Posts on [my Dev.to profile](https://dev.to/myterminal) with over 1.3k+ followers
 
 And there may be more that I don't realize.
