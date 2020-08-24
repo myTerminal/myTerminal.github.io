@@ -4,7 +4,7 @@ I work with software, computers, gadgets, cars and almost every non-living thing
 
 ## Career
 
-I'm a passionate, self-motivated software engineer with over ten years of professional experience and over fifteen years of overall programming experience. I have strong attention to detail in all my work, even my code: I like to keep it very organized.
+I'm a passionate, self-motivated software engineer with almost eleven years of professional experience and almost sixteen years of overall programming experience. I have strong attention to detail in all my work, even my code: I like to keep it very organized.
 
 I started my professional career back in 2009 with Microsoft technologies like .NET, WPF, and Silverlight to create desktop and web applications. Not foo far into my career, I ended up getting dragged to the front-end which gave it an entirely new direction but with so much going on and an infinite list of things to learn, it hardly lets me leave.
 
