@@ -1,6 +1,8 @@
 # Back to Linux - Ep 01: Leaving macOS
 
-> This article is a transcript of my YouTube video that you can watch [here](https://youtu.be/ix_Ji-lS_no). This means that certain statements may not make sense if you're reading it in this form.
+> This article is a transcript of one of my YouTube videos that you can watch by clicking the below thumbnail. This means that certain statements may not make sense if you're reading it in this form.
+
+[![https://i.ytimg.com/vi/ix_Ji-lS_no/hq720.jpg](https://i.ytimg.com/vi/ix_Ji-lS_no/hq720.jpg)](https://youtu.be/ix_Ji-lS_no)
 
 So this video is the first one from my series **Back to Linux** where I plan to cover my transition in a few videos, one part at a time. The videos will contain details about my computing experience so far, the reason for my move, a relatively short review of my next daily-driver, and the steps I took for the transition.
 

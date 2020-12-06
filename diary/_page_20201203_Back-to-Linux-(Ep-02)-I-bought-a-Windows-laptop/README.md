@@ -1,6 +1,8 @@
 # Back to Linux - Ep 02: So I bought a Windows laptop!
 
-> This article is a transcript of my YouTube video that you can watch [here](https://youtu.be/c5bhNC4mVBs). This means that certain statements may not make sense if you're reading it in this form. Also, you can find all the videos in the series in [this playlist](https://www.youtube.com/playlist?list=PLe6BbPAW-Wxgz5Jly855Aw3qWRiWqTXHO), at least the ones that I've published till this point.
+> This article is a transcript of one of my YouTube videos that you can watch by clicking the below thumbnail. This means that certain statements may not make sense if you're reading it in this form. Also, you can find all the videos in the series in [this playlist](https://www.youtube.com/playlist?list=PLe6BbPAW-Wxgz5Jly855Aw3qWRiWqTXHO), at least the ones that I've published till this point.
+
+[![https://i.ytimg.com/vi/c5bhNC4mVBs/hq720.jpg](https://i.ytimg.com/vi/c5bhNC4mVBs/hq720.jpg)](https://youtu.be/c5bhNC4mVBs)
 
 This video is a part of my series **Back to Linux** and is a continuation of my previous video where I talked about why [(and what)](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/ThinkPad-X1-Extreme-Gen-3/p/20TKCTO1WWENUS0) I made the transition to. If you haven't watched that video yet, I highly recommend starting from there to get the context of this video, but if you have, let's get right into it.
 
