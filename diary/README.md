@@ -1,5 +1,6 @@
 # Diary
 
+- [Back to Linux - Ep 02: So I bought a Windows laptop!](_page_20201203_Back-to-Linux-(Ep-02)-I-bought-a-Windows-laptop) - 12/03/2020
 - [Back to Linux - Ep 01: Leaving macOS](_page_20201130_Back-to-Linux-(Ep-01)-Leaving-macOS) - 11/30/2020
 - [5 plus ways how Rust makes you a better programmer](_page_20200309_5-plus-ways-how-Rust-makes-you-a-better-programmer) - 03/09/2020
 - [A few cleanups to relieve stress](_page_20200218_A-few-cleanups-to-relieve-stress) - 02/18/2020
