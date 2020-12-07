@@ -1,6 +1,6 @@
 # Back to Linux - Ep 01: Leaving macOS
 
-> This article is a transcript of one of my YouTube videos that you can watch by clicking the below thumbnail. This means that certain statements may not make sense if you're reading it in this form.
+> This article is a transcript of one of my YouTube videos that you can watch by clicking the below thumbnail. This means that certain statements may not make sense if you're reading it in this form. Also, you can find all the videos in the series in [this playlist](https://www.youtube.com/playlist?list=PLe6BbPAW-Wxgz5Jly855Aw3qWRiWqTXHO), at least the ones that I've published till this point.
 
 [![https://i.ytimg.com/vi/ix_Ji-lS_no/hq720.jpg](https://i.ytimg.com/vi/ix_Ji-lS_no/hq720.jpg)](https://youtu.be/ix_Ji-lS_no)
 
