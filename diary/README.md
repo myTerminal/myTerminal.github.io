@@ -1,5 +1,6 @@
 # Diary
 
+- [Back to Linux - Ep 05: Gaps and issues](_page_20201212_Back-to-Linux-(Ep-05)-Gaps-and-issues) - 12/12/2020
 - [Back to Linux - Ep 04: Setting up hybrid graphics](_page_20201210_Back-to-Linux-(Ep-04)-Setting-up-hybrid-graphics) - 12/10/2020
 - [Back to Linux - Ep 03: Setting up my ThinkPad](_page_20201208_Back-to-Linux-(Ep-03)-Setting-up-my-ThinkPad) - 12/08/2020
 - [Back to Linux - Ep 02: So I bought a Windows laptop!](_page_20201203_Back-to-Linux-(Ep-02)-I-bought-a-Windows-laptop) - 12/03/2020
