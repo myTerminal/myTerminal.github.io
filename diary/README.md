@@ -1,5 +1,6 @@
 # Diary
 
+- [I split my Emacs configuration and made it adaptive](_page_20210305_I-split-my-Emacs-configuration-and-made-it-adaptive) - 03/05/2021
 - [Setting up GUI on Linux with Twiner](_page_20210221_Setting-up-GUI-on-Linux-with-Twiner) - 02/21/2021
 - [How my workstation setup is "almost" automated - Part 2](_page_20210124_How-my-workstation-setup-is-almost-automated-Part-2) - 01/24/2021
 - [How my workstation setup is "almost" automated - Part 1](_page_20210111_How-my-workstation-setup-is-almost-automated-Part-1) - 01/11/2021
