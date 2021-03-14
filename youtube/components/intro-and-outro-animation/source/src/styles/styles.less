@@ -1,0 +1,334 @@
+@import '../../node_modules/effortless-css/less/all.less';
+@import '../../node_modules/@fortawesome/fontawesome-free/css/all.min.css';
+
+@font-face {
+    font-family: OpenSans;
+    src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-weight: bold;
+    src: url('../fonts/OpenSans-Bold.ttf');
+}
+
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: OpenSans;
+        background-color: #eee;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        overflow: hidden;
+        .transform-style(preserve-3d);
+        .perspective(500px);
+
+        .terminal {
+            .box-sizing(border-box);
+            padding: 5px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 110%;
+            height: 100%;
+            color: #fff;
+            font-size: 1.5em;
+            overflow-y: scroll;
+        }
+
+        .window-container {
+            .box-sizing(border-box);
+            padding: 10% 20%;
+            height: 100%;
+
+            .window {
+                box-shadow: 0 0 20px #000;
+                background-color: grey;
+                height: 100%;
+                .round-borders(5px);
+
+                .title-bar {
+                    .box-sizing(border-box);
+                    .round-borders(5px 5px 0 0);
+                    padding: 0 5px;
+                    background-color: #14282d;
+                    .background-gradient-two-color-top(#2d5863, #091215);
+                    color: #fff;
+                    height: 30px;
+                    line-height: 30px;
+                    position: relative;
+
+                    span {
+                        display: inline-block;
+                        float: left;
+
+                        &.button {
+                            margin: 8px 3px;
+                            width: 14px;
+                            height: 14px;
+                            .round-borders(50%);
+
+                            &.one {
+                                background-color: #d50000;
+                            }
+
+                            &.two {
+                                background-color: #d0d000;
+                            }
+
+                            &.three {
+                                background-color: #00c600;
+                            }
+                        }
+
+                        &.text {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            text-align: center;
+                        }
+                    }
+                }
+
+                .frame {
+                    .box-sizing(border-box);
+                    font-family: monospace;
+                    font-size: 1.2em;
+                    padding: 0 5px;
+                    height: calc(100% - 30px);
+                    background: #053a46;
+                    background: radial-gradient(circle, #0c93af 0%, #053a46 100%);
+                    color: #ace6f2;
+                    overflow-y: scroll;
+                }
+            }
+        }
+
+        .logo {
+            position: absolute;
+            width: 100%;
+            top: 50%;
+            .transform(translateY(-50%));
+            left: 0;
+            color: #fff;
+            text-align: center;
+            font-size: 5em;
+
+            .prompt {
+
+            }
+
+            .name {
+
+            }
+
+            .cursor {
+                border: 2px solid #fff;
+                margin-left: 3px;
+            }
+        }
+    }
+}
+
+
+html {
+
+    body {
+        transition: 1s;
+
+        .terminal {
+            transition: 0.5s;
+        }
+
+        .window-container {
+            transition: 1s;
+            .opacity(0);
+            .transform(scale(0) translate3d(0, 100%, 0));
+
+            .window {
+                transition: 1s;
+            }
+        }
+
+        .logo {
+            transition: 1s;
+            .transform(rotate3d(0, 1, 0, 180deg) translateY(-50%));
+            .opacity(0);
+
+            .prompt {
+                transition: 0.5s;
+            }
+
+            .name {
+                transition: 0.5s 1s;
+            }
+
+            .cursor {
+                transition: 0.5s 1s;
+                animation-name: blink;
+                animation-duration: 0.5s;
+                animation-delay: 1s;
+                animation-timing-function: ease-in-out;
+                animation-iteration-count: infinite;
+                animation-direction: alternate;
+                animation-play-state: paused;
+            }
+        }
+
+        &.state-init {
+
+        }
+
+        &.state-start-logs {
+
+            .terminal {
+                .opacity(0);
+            }
+        }
+
+        &.state-spawn-terminal {
+
+            .window-container {
+                .opacity(1);
+                .transform(scale(1) translate3d(0, 0 ,0));
+
+                .window {
+
+                }
+            }
+
+            .logo {
+
+                .cursor {
+                    .opacity(0);
+                }
+            }
+        }
+
+        &.state-flip {
+            background-color: #000;
+
+            .window-container {
+                .transform(rotate3d(0, 1, 0, 180deg));
+                .opacity(0);
+
+                .window {
+
+                }
+            }
+
+            .logo {
+                .transform(rotate3d(0, 0, 0, 0deg) translateY(-50%));
+                .opacity(1);
+
+                .cursor {
+                    animation-play-state: running;
+                }
+            }
+        }
+
+        &.state-change-colors {
+            background-color: #053a46;
+
+            .window-container {
+
+                .window {
+
+                }
+            }
+
+            .logo {
+
+                .prompt {
+                    color: #f00;
+                }
+
+                .name {
+
+                }
+
+                .cursor {
+                    .opacity(0) !important;
+                    animation-play-state: paused;
+                }
+            }
+        }
+
+        &.state-revert-colors {
+            background-color: #000;
+
+            .window-container {
+
+                .window {
+
+                }
+            }
+
+            .logo {
+
+                .prompt {
+
+                }
+
+                .name {
+
+                }
+
+                .cursor {
+                    .opacity(1) !important;
+                    animation-play-state: running;
+                }
+            }
+        }
+
+        &.state-untype-name {
+
+        }
+
+        &.state-say-thanks {
+
+        }
+
+        &.state-end {
+
+            .window-container {
+
+                .window {
+
+                }
+            }
+
+            .logo {
+
+                .prompt {
+                    .opacity(0);
+                }
+
+                .name {
+
+                }
+
+                .cursor {
+                    .opacity(0) !important;
+                    animation-play-state: paused;
+                }
+            }
+        }
+    }
+}
+
+@keyframes blink {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
