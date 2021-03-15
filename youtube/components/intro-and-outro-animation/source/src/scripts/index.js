@@ -1,13 +1,12 @@
 /* global document */
 
-import { print } from './lib/std';
-import { type, unType } from './lib/typer';
-import { executeAfterDelay, runAnimation } from './lib/animator';
+import { executeAfterDelay, shiftDom } from 'dom-shift';
+import { print, type, unType } from 'dom-cat';
 import { init1 as initLogs1, init2 as initLogs2, mateInstall } from './logs';
 
 import '../styles/styles.less';
 
-runAnimation(
+shiftDom(
     [
         {
             name: 'init',
@@ -17,7 +16,7 @@ runAnimation(
                         print(
                             document.querySelector('.terminal'),
                             initLogs1,
-                            400                            
+                            400
                         );
 
                         executeAfterDelay(
