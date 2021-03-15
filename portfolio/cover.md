@@ -6,17 +6,17 @@ I like to work with software, computers, gadgets, cars, and almost every other m
 
 I'm a passionate, self-motivated software engineer with almost eleven years of professional experience and almost sixteen years of overall programming experience. I have strong attention to detail in my work which of course includes my code: I like to keep it very organized.
 
-I started my professional career back in 2009 with Microsoft technologies like .NET, WPF, and Silverlight to create desktop and web applications. Not foo far into my career, I ended up getting dragged to the front-end and that gave it an entirely new universe of things to explore. After spending a few years on front-end heavy full-stack roles, I started planning my way back to a balanced role but with so much going on in the front-end space, it still managed to keep me occupied.
+I started my professional career back in 2009 with Microsoft technologies like .NET, WPF, and Silverlight to create desktop and web applications. Not too far into my career, I ended up getting dragged to the front-end and that gave it an entirely new universe of things to explore. After spending a few years on front-end heavy full-stack roles, I started planning my way back to a balanced role but with so much going on in the front-end space, it still managed to keep me occupied.
 
 ## Work life
 
-I write code at work and outside as well. My addiction to technology, curiosity to learn more, and passion for continuous-improvement enables me to self-learn and solve problems at my organization including the ones that lie within and outside the regular project work. I'm also known to be someone who's always ready to share exciting stuff within the team and beyond, and is motivating and technically inspirational.
+I write code at work and outside as well. My addiction to technology, curiosity to learn more, and passion for continuous-improvement enables me to self-learn and solve problems at my organization including the ones that lie within and outside the regular project work. I'm also known to be someone always ready to share exciting stuff within the team and beyond, and am motivating and technically inspirational.
 
-It does not take long for me to turn myself from an introvert team-mate to a talkative extrovert especially if the on-going conversation falls within (or even passes through) my interest area. I do find it hard to stop myself from boring my colleagues with technical details that I wasn't asked about.
+It does not take long for me to turn myself from an introverted team-mate to a talkative extrovert especially if the on-going conversation falls within (or even passes through) my interest area. I do find it hard to stop myself from boring my colleagues with technical details that I wasn't asked about.
 
 ## Computer Software
 
-Working with computers is one of my strongest addictions and I consider it as something more than just a means to earn my living. I'm a regular contributor to open-source software and have a decent reputation on online developer communities and programming puzzle websites.
+Working with computers is one of my strongest addictions and I consider it as something more than just a means to earn my living. I'm a regular contributor to open-source software and have a decent reputation in online developer communities and programming puzzle websites.
 
 Over the last decade, there's been a huge shift in the way I interact with computers. What used to be only around Microsoft Windows and MS-DOS has now turned entirely within Unix-like operating systems like Linux and Mac.
 
@@ -26,4 +26,4 @@ I'm scientific, methodical, and a little over-organized. I like to keep everythi
 
 ## Interests
 
-Outside of computers I appreciate soft trance and relaxing down-tempo music, like to tinker with (and maintain) my gadgets, and play role-playing video games when time permits. I also have an unusually strong passion for cars which forms a topic that I waste a lot of time learning and talking about. Though I prefer three pedals instead of two, it's hard for me to let go even a slim chance to get behind the wheels of anything that rolls.
+Outside of computers I appreciate soft trance and relaxing down-tempo music, like to tinker with (and maintain) my gadgets, and play role-playing video games when time permits. I also have an unusually strong passion for cars which forms a topic that I waste a lot of time learning and talking about. Though I prefer three pedals instead of two, it's hard for me to let go of even a slim chance to get behind the wheels of anything that rolls.
