@@ -1,5 +1,6 @@
 # Diary
 
+- [Living in the command line - Ep 02: Software setup](_page_20210317_Living-in-the-command-line-(Ep-02)-Software-setup) - 03/17/2021
 - [Living in the command line - Ep 01: Introduction](_page_20210315_Living-in-the-command-line-(Ep-01)-Introduction) - 03/15/2021
 - [I split my Emacs configuration and made it adaptive](_page_20210305_I-split-my-Emacs-configuration-and-made-it-adaptive) - 03/05/2021
 - [Setting up GUI on Linux with Twiner](_page_20210221_Setting-up-GUI-on-Linux-with-Twiner) - 02/21/2021
