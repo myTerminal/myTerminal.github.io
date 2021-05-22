@@ -1,5 +1,6 @@
 # Diary
 
+- [Why I'm leaving Arch](_page_20210521_Why-Im-leaving-Arch) - 05/21/2021
 - [Living in the command line - Ep 02: Software setup](_page_20210317_Living-in-the-command-line-(Ep-02)-Software-setup) - 03/17/2021
 - [Living in the command line - Ep 01: Introduction](_page_20210315_Living-in-the-command-line-(Ep-01)-Introduction) - 03/15/2021
 - [I split my Emacs configuration and made it adaptive](_page_20210305_I-split-my-Emacs-configuration-and-made-it-adaptive) - 03/05/2021
