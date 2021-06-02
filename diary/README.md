@@ -1,5 +1,6 @@
 # Diary
 
+- [(Why/How) I installed Debian the 'Arch' way](_page_20210602_I-installed-Debian-the-Arch-way) - 06/02/2021
 - [Why I'm leaving Arch](_page_20210521_Why-Im-leaving-Arch) - 05/21/2021
 - [Living in the command line - Ep 02: Software setup](_page_20210317_Living-in-the-command-line-(Ep-02)-Software-setup) - 03/17/2021
 - [Living in the command line - Ep 01: Introduction](_page_20210315_Living-in-the-command-line-(Ep-01)-Introduction) - 03/15/2021
