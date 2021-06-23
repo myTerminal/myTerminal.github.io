@@ -25,6 +25,6 @@ Finally, I've also contributed to the community in other ways with:
 
 * My answers on [StackOverflow](http://stackoverflow.com/users/1749585/myterminal) (and other StackExchange communities)
 * Posts on [my Dev.to profile](https://dev.to/myterminal) with over 1.3k+ followers
-* Videos on [YouTube](https://www.youtube.com/channel/UCbfg3_hFrOxuEtYMRGsp1ig) and [Odysee](https://odysee.com/@myTerminal:1)
+* Videos on [YouTube](https://www.youtube.com/myTerminal) and [Odysee](https://odysee.com/@myTerminal:1)
 
 And there may be more that I don't realize, but you get the idea.
