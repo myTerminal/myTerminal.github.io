@@ -1,1 +1,1 @@
-> Success is not guaranteed, but no matter how strong you are, a little extra effort along with some more planning can at least potentially increase your chances of winning. - Me
+> "It's so much easier to see the world in black and white. Gray? I don't know what to do with gray..." - Garrus Vakarian
