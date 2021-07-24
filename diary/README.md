@@ -1,20 +1,20 @@
 # Diary
 
-- [Installing a Minimal Debian system the Arch Way](\(VIDEO\)-Installing-a-Minimal-Debian-system-the-Arch-way) - 07/24/2021
-- [Back to Linux - Ep 06: Re-setup with Debian (Gains and losses)](_page_20210619_[VIDEO]-Back-to-Linux-(Ep-06)-Re-setup-with-Debian-Gains-and-losses) - 06/19/2021
-- [(Why/How) I installed Debian the 'Arch' way](_page_20210602_I-installed-Debian-the-Arch-way) - 06/02/2021
-- [Why I'm leaving Arch](_page_20210521_Why-Im-leaving-Arch) - 05/21/2021
-- [Living in the command line - Ep 02: Software setup](_page_20210317_Living-in-the-command-line-(Ep-02)-Software-setup) - 03/17/2021
-- [Living in the command line - Ep 01: Introduction](_page_20210315_Living-in-the-command-line-(Ep-01)-Introduction) - 03/15/2021
-- [I split my Emacs configuration and made it adaptive](_page_20210305_I-split-my-Emacs-configuration-and-made-it-adaptive) - 03/05/2021
-- [Setting up GUI on Linux with Twiner](_page_20210221_Setting-up-GUI-on-Linux-with-Twiner) - 02/21/2021
-- [How my workstation setup is "almost" automated - Part 2](_page_20210124_How-my-workstation-setup-is-almost-automated-Part-2) - 01/24/2021
-- [How my workstation setup is "almost" automated - Part 1](_page_20210111_How-my-workstation-setup-is-almost-automated-Part-1) - 01/11/2021
-- [Back to Linux - Ep 05: Gaps and issues](_page_20201212_Back-to-Linux-(Ep-05)-Gaps-and-issues) - 12/12/2020
-- [Back to Linux - Ep 04: Setting up hybrid graphics](_page_20201210_Back-to-Linux-(Ep-04)-Setting-up-hybrid-graphics) - 12/10/2020
-- [Back to Linux - Ep 03: Setting up my ThinkPad](_page_20201208_Back-to-Linux-(Ep-03)-Setting-up-my-ThinkPad) - 12/08/2020
-- [Back to Linux - Ep 02: So I bought a Windows laptop!](_page_20201203_Back-to-Linux-(Ep-02)-I-bought-a-Windows-laptop) - 12/03/2020
-- [Back to Linux - Ep 01: Leaving macOS](_page_20201130_Back-to-Linux-(Ep-01)-Leaving-macOS) - 11/30/2020
+- [Installing a Minimal Debian system the Arch Way](_page_20210724_\(VIDEO\)-Installing-a-Minimal-Debian-system-the-Arch-way) - 07/24/2021
+- [Back to Linux - Ep 06: Re-setup with Debian (Gains and losses)](_page_20210619_\(VIDEO\)-Back-to-Linux-(Ep-06)-Re-setup-with-Debian-Gains-and-losses) - 06/19/2021
+- [(Why/How) I installed Debian the 'Arch' way](_page_20210602_\(VIDEO\)-I-installed-Debian-the-Arch-way) - 06/02/2021
+- [Why I'm leaving Arch](_page_20210521_\(VIDEO\)-Why-Im-leaving-Arch) - 05/21/2021
+- [Living in the command line - Ep 02: Software setup](_page_20210317_\(VIDEO\)-Living-in-the-command-line-(Ep-02)-Software-setup) - 03/17/2021
+- [Living in the command line - Ep 01: Introduction](_page_20210315_\(VIDEO\)-Living-in-the-command-line-(Ep-01)-Introduction) - 03/15/2021
+- [I split my Emacs configuration and made it adaptive](_page_20210305_\(VIDEO\)-I-split-my-Emacs-configuration-and-made-it-adaptive) - 03/05/2021
+- [Setting up GUI on Linux with Twiner](_page_20210221_\(VIDEO\)-Setting-up-GUI-on-Linux-with-Twiner) - 02/21/2021
+- [How my workstation setup is "almost" automated - Part 2](_page_20210124_\(VIDEO\)-How-my-workstation-setup-is-almost-automated-Part-2) - 01/24/2021
+- [How my workstation setup is "almost" automated - Part 1](_page_20210111_\(VIDEO\)-How-my-workstation-setup-is-almost-automated-Part-1) - 01/11/2021
+- [Back to Linux - Ep 05: Gaps and issues](_page_20201212_\(VIDEO\)-Back-to-Linux-(Ep-05)-Gaps-and-issues) - 12/12/2020
+- [Back to Linux - Ep 04: Setting up hybrid graphics](_page_20201210_\(VIDEO\)-Back-to-Linux-(Ep-04)-Setting-up-hybrid-graphics) - 12/10/2020
+- [Back to Linux - Ep 03: Setting up my ThinkPad](_page_20201208_\(VIDEO\)-Back-to-Linux-(Ep-03)-Setting-up-my-ThinkPad) - 12/08/2020
+- [Back to Linux - Ep 02: So I bought a Windows laptop!](_page_20201203_\(VIDEO\)-Back-to-Linux-(Ep-02)-I-bought-a-Windows-laptop) - 12/03/2020
+- [Back to Linux - Ep 01: Leaving macOS](_page_20201130_\(VIDEO\)-Back-to-Linux-(Ep-01)-Leaving-macOS) - 11/30/2020
 - [5 plus ways how Rust makes you a better programmer](_page_20200309_5-plus-ways-how-Rust-makes-you-a-better-programmer) - 03/09/2020
 - [A few cleanups to relieve stress](_page_20200218_A-few-cleanups-to-relieve-stress) - 02/18/2020
 - [How I manage to meet most of my deadlines and still keep myself 'mostly' motivated](_page_20191227_How-I-manage-to-meet-most-of-my-deadlines-and-still-keep-myself-'mostly'-motivated) - 12/27/2019
