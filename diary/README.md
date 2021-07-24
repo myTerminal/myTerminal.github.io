@@ -1,6 +1,6 @@
 # Diary
 
-
+- [Installing a Minimal Debian system the Arch Way](\(VIDEO\)-Installing-a-Minimal-Debian-system-the-Arch-way) - 07/24/2021
 - [Back to Linux - Ep 06: Re-setup with Debian (Gains and losses)](_page_20210619_[VIDEO]-Back-to-Linux-(Ep-06)-Re-setup-with-Debian-Gains-and-losses) - 06/19/2021
 - [(Why/How) I installed Debian the 'Arch' way](_page_20210602_I-installed-Debian-the-Arch-way) - 06/02/2021
 - [Why I'm leaving Arch](_page_20210521_Why-Im-leaving-Arch) - 05/21/2021
