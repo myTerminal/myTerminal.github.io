@@ -1,5 +1,6 @@
 # Diary
 
+- [What I Learned Writing My First Book](_page_20210801_\(VIDEO\)-What-I-Learned-Writing-My-First-Book) - 08/01/2021
 - [Installing a Minimal Debian system the Arch Way](_page_20210724_\(VIDEO\)-Installing-a-Minimal-Debian-system-the-Arch-way) - 07/24/2021
 - [Back to Linux - Ep 06: Re-setup with Debian (Gains and losses)](_page_20210619_\(VIDEO\)-Back-to-Linux-(Ep-06)-Re-setup-with-Debian-Gains-and-losses) - 06/19/2021
 - [(Why/How) I installed Debian the 'Arch' way](_page_20210602_\(VIDEO\)-I-installed-Debian-the-Arch-way) - 06/02/2021
