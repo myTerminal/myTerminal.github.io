@@ -99,6 +99,11 @@ shiftDom(
             duration: 2000
         },
         {
+            name: 'stop',
+            step: () => {},
+            duration: 1000
+        },
+        {
             name: 'end',
             step: () => {}
         },

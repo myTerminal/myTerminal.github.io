@@ -115,7 +115,6 @@ html {
             position: absolute;
             width: 100%;
             top: 50%;
-            .transform(translateY(-50%));
             left: 0;
             color: #fff;
             text-align: center;
@@ -159,7 +158,7 @@ html {
 
         .logo {
             transition: 1s;
-            .transform(rotate3d(0, 1, 0, 180deg) translateY(-50%));
+            .transform(translateY(-50%));
             .opacity(0);
 
             .prompt {
@@ -216,7 +215,7 @@ html {
             background-color: #000;
 
             .window-container {
-                .transform(rotate3d(0, 1, 0, 180deg));
+                .transform(scale(10));
                 .opacity(0);
 
                 .window {
@@ -225,7 +224,6 @@ html {
             }
 
             .logo {
-                .transform(rotate3d(0, 0, 0, 0deg) translateY(-50%));
                 .opacity(1);
 
                 .cursor {
@@ -296,7 +294,7 @@ html {
 
         }
 
-        &.state-end {
+        &.state-stop {
 
             .window-container {
 
@@ -319,6 +317,13 @@ html {
                     .opacity(0) !important;
                     animation-play-state: paused;
                 }
+            }
+        }
+
+        &.state-end {
+
+            .logo {
+                .transform(translateX(-20px) translateY(-50%));
             }
         }
     }
