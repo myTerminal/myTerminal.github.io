@@ -1,5 +1,6 @@
 # Diary
 
+- [Linux is Full of Opinions - Part 2: More Choices](_page_20210820_\(VIDEO\)-Linux-is-Full-of-Opinions-Part-2-More-Choices) - 08/20/2021
 - [Linux is Full of Opinions - Part 1: Early Choices](_page_20210818_\(VIDEO\)-Linux-is-Full-of-Opinions-Part-1-Early-Choices) - 08/18/2021
 - [What I Learned Writing My First Book](_page_20210801_\(VIDEO\)-What-I-Learned-Writing-My-First-Book) - 08/01/2021
 - [Installing a Minimal Debian system the Arch Way](_page_20210724_\(VIDEO\)-Installing-a-Minimal-Debian-system-the-Arch-way) - 07/24/2021
