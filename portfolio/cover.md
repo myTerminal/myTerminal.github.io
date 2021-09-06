@@ -10,9 +10,9 @@ I started my professional career back in 2009 with Microsoft technologies like .
 
 ## Work life
 
-I write code at work and outside as well. My addiction to technology, curiosity to learn more, and passion for continuous-improvement enables me to self-learn and solve problems at my organization including the ones that lie within and outside the regular project work. I'm also known to be someone always ready to share exciting stuff within the team and beyond, and am motivating and technically inspirational.
+I write code at work and outside as well. My addiction to technology, curiosity to learn more, and passion for continuous improvement enables me to self-learn and solve problems at my organization including the ones that lie within and outside the regular project work. I'm also known to be someone always ready to share exciting stuff within the team and beyond, and am motivating and technically inspirational.
 
-It does not take long for me to turn myself from an introverted team-mate to a talkative extrovert especially if the on-going conversation falls within (or even passes through) my interest area. I do find it hard to stop myself from boring my colleagues with technical details that I wasn't asked about.
+It does not take long for me to turn myself from an introverted team-mate to a talkative extrovert especially if the on going conversation falls within (or even passes through) my interest area. I do find it hard to stop myself from boring my colleagues with technical details that I wasn't asked about.
 
 ## Computer Software
 
