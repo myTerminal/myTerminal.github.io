@@ -30,7 +30,7 @@ Skipping all the regular and boring stuff, I'll quickly create a Virtual Machine
 
 The installation, as you might expect, may look very similar to an [Arch installation](https://wiki.archlinux.org/title/Installation_guide). Along with a few other differences, there will be a few additional steps as well that are otherwise taken care of by Arch tools when you install Arch. So without wasting any more time talking, let's have some demo.
 
-## Starting a terminal
+### Starting a terminal
 
 So once we boot into live Debian, we jump straight into a terminal and switch user to root.
 
