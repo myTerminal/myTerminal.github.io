@@ -1,5 +1,6 @@
 # Diary
 
+- [Void Linux Installation for Arch Users](_page_20210923_\(VIDEO\)-Void-Linux-Installation-for-Arch-users) - 09/23/2021
 - [I'm Entering the Void (after Arch and Debian)](_page_20210827_\(VIDEO\)-Im-Entering-the-Void-after-Arch-and-Debian) - 08/27/2021
 - [I'm Leaving Debian (too), BTW](_page_20210822_\(VIDEO\)-Im-Leaving-Debian-too-BTW) - 08/22/2021
 - [Linux is Full of Opinions - Part 2: More Choices](_page_20210820_\(VIDEO\)-Linux-is-Full-of-Opinions-Part-2-More-Choices) - 08/20/2021
