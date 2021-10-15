@@ -1,5 +1,6 @@
 # Diary
 
+- [Back to Linux - Ep 08: Void on the ThinkPad, at last!](_page_20211015_\(VIDEO\)-Back-to-Linux-(Ep-08)-Void-on-the-ThinkPad) - 10/15/2021
 - [Back to Linux - Ep 07: Not again, Nvidia!](_page_20210929_\(VIDEO\)-Back-to-Linux-(Ep-07)-Not-again-Nvidia) - 09/29/2021
 - [Void Linux Installation for Arch Users](_page_20210923_\(VIDEO\)-Void-Linux-Installation-for-Arch-users) - 09/23/2021
 - [I'm Entering the Void (after Arch and Debian)](_page_20210827_\(VIDEO\)-Im-Entering-the-Void-after-Arch-and-Debian) - 08/27/2021
