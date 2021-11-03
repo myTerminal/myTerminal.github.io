@@ -1,5 +1,6 @@
 # Diary
 
+- [Back to Linux - Ep 09: One Year with the ThinkPad](_page_20211120_\(VIDEO\)-Back-to-Linux-(Ep-09)-One-Year-with-the-ThinkPad) - 11/20/2021
 - [Celebrating N7 Day 2021: My Ten Years with Mass Effect](_page_20211107_\(VIDEO\)-Celebrating-N7-Day-2021-(and-My-Ten-Years-with-Mass-Effect)) - 11/07/2021
 - [Back to Linux - Ep 08: Void on the ThinkPad, at last!](_page_20211015_\(VIDEO\)-Back-to-Linux-(Ep-08)-Void-on-the-ThinkPad) - 10/15/2021
 - [Back to Linux - Ep 07: Not again, Nvidia!](_page_20210929_\(VIDEO\)-Back-to-Linux-(Ep-07)-Not-again-Nvidia) - 09/29/2021
