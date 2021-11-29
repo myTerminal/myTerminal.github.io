@@ -14,7 +14,7 @@ shiftDom(
                 return new Promise(
                     resolve => {
                         print(
-                            document.querySelector('.terminal'),
+                            document.querySelector('.frame'),
                             initLogs1,
                             400
                         );
@@ -22,7 +22,7 @@ shiftDom(
                         executeAfterDelay(
                             () => {
                                 print(
-                                    document.querySelector('.terminal'),
+                                    document.querySelector('.frame'),
                                     initLogs2,
                                     20
                                 );
@@ -30,18 +30,18 @@ shiftDom(
                             2000
                         );
 
-                        executeAfterDelay(resolve, 2000);
+                        executeAfterDelay(resolve, 2500);
                     }
                 );
             }
         },
         {
-            name: 'start-logs',
+            name: 'transform-into-gui',
             step: () => {},
             duration: 500
         },
         {
-            name: 'spawn-terminal',
+            name: 'echo-logs',
             step: () => {
                 print(
                     document.querySelector('.frame'),
@@ -52,7 +52,7 @@ shiftDom(
             duration: 4000
         },
         {
-            name: 'flip',
+            name: 'show-logo',
             step: () => {},
             duration: 1500
         },

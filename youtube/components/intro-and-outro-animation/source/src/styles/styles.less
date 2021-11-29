@@ -26,7 +26,6 @@ html {
         margin: 0;
         padding: 0;
         font-family: Inconsolata;
-        background-color: #eee;
         width: 100%;
         height: 100%;
         background-color: #000;
@@ -34,83 +33,18 @@ html {
         .transform-style(preserve-3d);
         .perspective(500px);
 
-        .terminal {
-            .box-sizing(border-box);
-            padding: 5px;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 110%;
-            height: 100%;
-            color: #fff;
-            font-size: 1.5em;
-            overflow-y: scroll;
-        }
-
         .window-container {
             .box-sizing(border-box);
-            padding: 10% 20%;
             height: 100%;
 
             .window {
-                box-shadow: 0 0 20px #000;
-                background-color: grey;
-                height: 100%;
-                .round-borders(5px);
-
-                .title-bar {
-                    .box-sizing(border-box);
-                    .round-borders(5px 5px 0 0);
-                    padding: 0 5px;
-                    background-color: #14282d;
-                    .background-gradient-two-color-top(#2d5863, #091215);
-                    color: #fff;
-                    height: 30px;
-                    font-family: OpenSans;
-                    line-height: 30px;
-                    position: relative;
-
-                    span {
-                        display: inline-block;
-                        float: left;
-
-                        &.button {
-                            margin: 8px 3px;
-                            width: 14px;
-                            height: 14px;
-                            .round-borders(50%);
-
-                            &.one {
-                                background-color: #d50000;
-                            }
-
-                            &.two {
-                                background-color: #d0d000;
-                            }
-
-                            &.three {
-                                background-color: #00c600;
-                            }
-                        }
-
-                        &.text {
-                            position: absolute;
-                            top: 0;
-                            left: 0;
-                            width: 100%;
-                            text-align: center;
-                        }
-                    }
-                }
 
                 .frame {
                     .box-sizing(border-box);
-                    font-size: 1.2em;
+                    font-size: 2em;
                     padding: 0 5px;
                     height: calc(100% - 30px);
-                    background: #053a46;
-                    background: radial-gradient(circle, #0c93af 0%, #053a46 100%);
-                    color: #ace6f2;
+                    color: #fff;
                     overflow-y: scroll;
                 }
             }
@@ -124,9 +58,11 @@ html {
             color: #fff;
             text-align: center;
             font-size: 5em;
+            .opacity(0);
+            .transform(translateY(-50%));
 
             .prompt {
-
+                margin-right: 5px;
             }
 
             .name {
@@ -136,6 +72,14 @@ html {
             .cursor {
                 border: 2px solid #fff;
                 margin-left: 3px;
+                transition: 0.5s 1s;
+                animation-name: blink;
+                animation-duration: 0.5s;
+                animation-delay: 0.5s;
+                animation-timing-function: ease-in-out;
+                animation-iteration-count: infinite;
+                animation-direction: alternate;
+                animation-play-state: paused;
             }
         }
     }
@@ -153,18 +97,18 @@ html {
 
         .window-container {
             transition: 1s;
-            .opacity(0);
-            .transform(scale(0) translate3d(0, 100%, 0));
 
             .window {
                 transition: 1s;
+
+                .frame {
+                    transition: 1s;
+                }
             }
         }
 
         .logo {
             transition: 1s;
-            .transform(translateY(-50%));
-            .opacity(0);
 
             .prompt {
                 transition: 0.5s;
@@ -173,59 +117,84 @@ html {
             .name {
                 transition: 0.5s 1s;
             }
-
-            .cursor {
-                transition: 0.5s 1s;
-                animation-name: blink;
-                animation-duration: 0.5s;
-                animation-delay: 1s;
-                animation-timing-function: ease-in-out;
-                animation-iteration-count: infinite;
-                animation-direction: alternate;
-                animation-play-state: paused;
-            }
         }
 
         &.state-init {
 
         }
 
-        &.state-start-logs {
+        &.state-transform-into-gui {
 
-            .terminal {
-                .opacity(0);
+            .window-container {
+                padding: 10% 20%;
+
+                .window {
+                    box-shadow: 0 0 20px #000;
+                    height: 100%;
+                    .round-borders(5px);
+
+                    .title-bar {
+                        .box-sizing(border-box);
+                        .round-borders(5px 5px 0 0);
+                        padding: 0 5px;
+                        background-color: #14282d;
+                        .background-gradient-two-color-top(#2d5863, #091215);
+                        color: #fff;
+                        height: 30px;
+                        font-family: OpenSans;
+                        line-height: 30px;
+                        position: relative;
+
+                        span {
+                            display: inline-block;
+                            float: left;
+
+                            &.button {
+                                margin: 8px 3px;
+                                width: 14px;
+                                height: 14px;
+                                .round-borders(50%);
+
+                                &.one {
+                                    background-color: #d50000;
+                                }
+
+                                &.two {
+                                    background-color: #d0d000;
+                                }
+
+                                &.three {
+                                    background-color: #00c600;
+                                }
+                            }
+
+                            &.text {
+                                position: absolute;
+                                top: 0;
+                                left: 0;
+                                width: 100%;
+                                text-align: center;
+                            }
+                        }
+                    }
+
+                    .frame {
+                        font-size: 1.2em;
+                        background-color: #053a46;
+                        color: #ace6f2;
+                    }
+                }
             }
         }
 
-        &.state-spawn-terminal {
+        &.state-echo-logs {
 
-            .window-container {
-                .opacity(1);
-                .transform(scale(1) translate3d(0, 0 ,0));
-
-                .window {
-
-                }
-            }
-
-            .logo {
-
-                .cursor {
-                    .opacity(0);
-                }
-            }
         }
 
-        &.state-flip {
-            background-color: #000;
+        &.state-show-logo {
 
             .window-container {
-                .transform(scale(10));
                 .opacity(0);
-
-                .window {
-
-                }
             }
 
             .logo {
@@ -328,7 +297,7 @@ html {
         &.state-end {
 
             .logo {
-                .transform(translateX(-20px) translateY(-50%));
+                .transform(translateY(-50%) translateX(-20px));
             }
         }
     }
