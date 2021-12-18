@@ -1,5 +1,6 @@
 # Diary
 
+- [How to Stop Worrying About Losing Your Data](_page_20211225_\(VIDEO\)-How-to-Stop-Worrying-About-Losing-Your-Data) - 12/25/2021
 - [End of 2021, Here Comes 2022!](_page_20211204_\(VIDEO\)-End-of-2021-Here-Comes-2022) - 12/04/2021
 - [Back to Linux - Ep 10: My Opinion on the State of Linux Desktop](_page_20211127_\(VIDEO\)-Back-to-Linux-(Ep-10)-My-Opinion-on-the-State-of-Linux-Desktop) - 11/27/2021
 - [Back to Linux - Ep 09: One Year with the ThinkPad](_page_20211120_\(VIDEO\)-Back-to-Linux-(Ep-09)-One-Year-with-the-ThinkPad) - 11/20/2021
