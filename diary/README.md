@@ -30,7 +30,7 @@
 - [Back to Linux - Ep 01: Leaving macOS](_page_20201130_\(VIDEO\)-Back-to-Linux-(Ep-01)-Leaving-macOS) - 11/30/2020
 - [5 plus ways how Rust makes you a better programmer](_page_20200309_5-plus-ways-how-Rust-makes-you-a-better-programmer) - 03/09/2020
 - [A few cleanups to relieve stress](_page_20200218_A-few-cleanups-to-relieve-stress) - 02/18/2020
-- [How I manage to meet most of my deadlines and still keep myself 'mostly' motivated](_page_20191227_How-I-manage-to-meet-most-of-my-deadlines-and-still-keep-myself-'mostly'-motivated) - 12/27/2019
+- [How I manage to meet most of my deadlines and still keep myself 'mostly' motivated](_page_20191227_How-I-manage-to-meet-most-of-my-deadlines-and-still-keep-myself-mostly-motivated) - 12/27/2019
 - [My first decade as a professional software developer](_page_20191207_My-first-decade-as-a-professional-software-developer) - 12/07/2019
 - [Moving from OnePlus 5T to Razer Phone 2](_page_20191015_Moving-from-OnePlus-5T-to-Razer-Phone-2) - 10/15/2019
 - [How my life restarted as a New Game Plus](_page_20190731_How-my-life-restarted-as-a-New-Game-Plus) - 07/31/2019
