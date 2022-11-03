@@ -3,6 +3,7 @@ Most of my work resides on GitHub as:
 * [GitHub/myTerminal](https://github.com/myTerminal) consisting of my personal open-source projects that range from
     * Front-end libraries
     * Node.js libraries and apps
+    * Lisp applications
     * Rust crates
     * Small web-apps
     * Useful Bash scripts
