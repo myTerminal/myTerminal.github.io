@@ -1,1 +1,1 @@
-programmer, linux-advocate, emacs-er, oss-contributor, car-enthusiast, gamer, nerd, over-organized, DIY, muslim
+computer-nerd, linux-advocate, emacs-er, oss-contributor, car-enthusiast, gamer, over-organized, DIY, muslim
