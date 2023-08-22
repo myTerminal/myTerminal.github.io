@@ -1,1 +1,1 @@
-thinkpad-nerd, linux-advocate, emacs-er, oss-contributor, car-enthusiast, gamer, over-organized, muslim
+thinkpad, linux, emacs, oss, automobiles, videogames, lists, productivity, islam
