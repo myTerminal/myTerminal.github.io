@@ -1,5 +1,4 @@
 ThinkPad T15g Gen 2
-ThinkPad X1 Yoga Gen 4
 ThinkPad X220
 ThinkPad X1 Extreme Gen 3
 ThinkPad X1 Carbon Gen 7
