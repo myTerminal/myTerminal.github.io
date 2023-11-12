@@ -1,21 +1,13 @@
 ## Summary
 
-I like to work with computer software (and hardware), cars, and almost every other machine that can be tinkered with. I do re-arrange (and sometimes add) lines of computer code professionally, but I also love to delete data, plan tasks, and check items off a list.
+With a robust fourteen-year tenure as a software professional, my expertise extends beyond the confines of work into a realm where passion and proficiency intersect. Embarking on my career in the early 2000s, I have navigated through diverse disciplines, platforms, and tech stacks, dedicating the past decade to crafting immersive web experiences through the mastery of front-end technologies.
 
-## Career
+My approach to technology is characterized by a forward-thinking outlook, an insatiable curiosity for knowledge, and an unwavering commitment to continuous improvement. These qualities serve as invaluable tools in my arsenal, enabling me to autonomously tackle challenges both within and beyond my defined expertise. Beyond personal growth, my enthusiasm extends to sharing knowledge and mentoring, making me a source of technical inspiration within my team and the broader professional sphere.
 
-I'm a passionate computer & technology enthusiast with almost fourteen years of professional and over nineteen years of overall experience working with computer software.
+## Being a Technology Enthusiast
 
-Having started my professional career back in 2009 with Microsoft technologies and then later having spent most later half on the front-end, I've touched and explored several platforms and tech stacks. Over the years, I've learned not to limit myself to the language, frameworks, libraries, or platforms I'm familiar with, but instead see them as tools to achieve results, which is mostly solving real-world problems using computer code.
+Working with computers is not merely a means of earning a livelihood for me; it's a fervent interest that transcends the boundaries of the workplace. The symbiotic interaction with both software and hardware is a constant in my professional and personal pursuits. As a regular contributor to open-source software, I have established a reputable presence in software development communities online. My affinity for technology extends beyond personal computers, encompassing a diverse range of machines that I enjoy tinkering with and understanding.
 
-## Work Life
+## Hobbies & Personal Life
 
-My outlook towards technology, curiosity to learn more, and passion for continuous improvement add a few handy items to my arsenal. These prove instrumental in enabling me to self-learn and solve problems within and outsides my area of expertise. My eagerness to share and teach makes me technically inspiring in my team and beyond.
-
-## Personal Life
-
-Because working with computers is one of my primary interests, I consider it as something more than just a means to pay my bills. This means that interaction with computer code happens both at work and outside work. Needless to say, I'm a regular contributor to open-source software and have a respectable identity across software development communities on the web.
-
-## Personality
-
-Being scientific, methodical, and a little overorganized, I like to keep everything around me in proper order and treat anything coming my way with respect and sincerity. Outside of computers, I like to tinker with my gadgets, improve my daily workflow, and play role-playing and strategy video games when time permits. I also have an unusually strong fascination with cars and though I prefer three pedals instead of two, I still try to get behind the wheel of anything that rolls.
+Grounded in a scientific and methodical mindset, I bring order and sincerity to every facet of my life. Beyond the digital realm, I derive joy from tinkering with gadgets, optimizing daily workflows, and immersing myself in role-playing and strategy video games during moments of respite. Unveiling another layer of my interests, I hold an uncommon fascination for cars, especially relishing the experience of maneuvering vehicles with three pedals. In this intricate blend of technical prowess, organizational acumen, and diverse interests, I find fulfillment both professionally and personally.
