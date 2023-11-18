@@ -1,5 +1,6 @@
 # Diary
 
+- [I Finally Left Remember The Milk](_page_20231118_\(VIDEO\)-I-Finally-Left-Remember-The-Milk) - 11/18/2023
 - [My Adventures with ThinkPads](_page_20231015_\(VIDEO\)-My-Adventures-with-ThinkPads) - 10/15/2023
 - [How to Stop Worrying About Losing Your Data](_page_20211225_\(VIDEO\)-How-to-Stop-Worrying-About-Losing-Your-Data) - 12/25/2021
 - [End of 2021, Here Comes 2022!](_page_20211204_\(VIDEO\)-End-of-2021-Here-Comes-2022) - 12/04/2021
