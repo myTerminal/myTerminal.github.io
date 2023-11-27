@@ -1,8 +1,8 @@
 # Diary
 
-- [A Comprehensive Guide to Computer Purchase: 06 - Major Factors to Consider](_page_20231130_(VIDEO)-A-Comprehensive-Guide-To-Computer-Purchase-(06)-Major-Factors-to-Consider) - 11/30/2023
-- [A Comprehensive Guide to Computer Purchase: 05 - What Brand to Choose?](_page_20231128_(VIDEO)-A-Comprehensive-Guide-To-Computer-Purchase-(05)-What-Brand-to-Choose) - 11/28/2023
-- [A Comprehensive Guide to Computer Purchase: 04 - Setting Your Budget](_page_20231126_(VIDEO)-A-Comprehensive-Guide-To-Computer-Purchase-(04)-Setting-Your-Budget) - 11/26/2023
+- [A Comprehensive Guide to Computer Purchase: 06 - Major Factors to Consider](_page_20231130_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(06\)-Major-Factors-to-Consider) - 11/30/2023
+- [A Comprehensive Guide to Computer Purchase: 05 - What Brand to Choose?](_page_20231128_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(05\)-What-Brand-to-Choose) - 11/28/2023
+- [A Comprehensive Guide to Computer Purchase: 04 - Setting Your Budget](_page_20231126_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(04\)-Setting-Your-Budget) - 11/26/2023
 - [A Comprehensive Guide to Computer Purchase: 03 - Windows, macOS, Linux, or Beyond?](_page_20231124_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(03\)-Windows-macOS-Linux-or-Beyond) - 11/24/2023
 - [A Comprehensive Guide to Computer Purchase: 02 - From Requirements to Criteria](_page_20231122_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(02\)-Desktop-Laptop-or-Else) - 11/22/2023
 - [A Comprehensive Guide to Computer Purchase: 01 - From Requirements to Criteria](_page_20231120_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(01\)-From-Requirements-to-Criteria) - 11/20/2023
