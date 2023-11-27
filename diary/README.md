@@ -1,5 +1,6 @@
 # Diary
 
+- [A Comprehensive Guide to Computer Purchase: 10 - Getting More Value for Your Money](_page_20231208_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(10\)-Getting-More-Value-for-Your-Money) - 12/08/2023
 - [A Comprehensive Guide to Computer Purchase: 09 - Buying Used](_page_20231206_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(09\)-Buying-Used) - 12/06/2023
 - [A Comprehensive Guide to Computer Purchase: 08 - Buying New](_page_20231204_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(08\)-Buying-New) - 12/04/2023
 - [A Comprehensive Guide to Computer Purchase: 07 - Should You Buy New or Used?](_page_20231202_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(07\)-Should-You-Buy-New-or-Used) - 12/02/2023
