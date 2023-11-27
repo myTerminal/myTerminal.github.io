@@ -1,5 +1,6 @@
 # Diary
 
+- [A Comprehensive Guide to Computer Purchase: 07 - Should You Buy New or Used?](_page_20231202_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(07\)-Should-You-Buy-New-or-Used) - 12/02/2023
 - [A Comprehensive Guide to Computer Purchase: 06 - Major Factors to Consider](_page_20231130_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(06\)-Major-Factors-to-Consider) - 11/30/2023
 - [A Comprehensive Guide to Computer Purchase: 05 - What Brand to Choose?](_page_20231128_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(05\)-What-Brand-to-Choose) - 11/28/2023
 - [A Comprehensive Guide to Computer Purchase: 04 - Setting Your Budget](_page_20231126_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(04\)-Setting-Your-Budget) - 11/26/2023
