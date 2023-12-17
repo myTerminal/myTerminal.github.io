@@ -1,5 +1,6 @@
 # Diary
 
+- [A Comprehensive Guide to Computer Purchase: 12 - Letting Go](_page_20231217_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(12\)-Letting-Go) - 12/17/2023
 - [A Comprehensive Guide to Computer Purchase: 11 - Buying Online or In-Person](_page_20231210_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(11\)-Buying-Online-or-In-Person) - 12/10/2023
 - [A Comprehensive Guide to Computer Purchase: 10 - Getting More Value for Your Money](_page_20231208_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(10\)-Getting-More-Value-for-Your-Money) - 12/08/2023
 - [A Comprehensive Guide to Computer Purchase: 09 - Buying Used](_page_20231206_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(09\)-Buying-Used) - 12/06/2023
