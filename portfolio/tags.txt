@@ -1,9 +1,9 @@
-thinkpad: because what else would I run Linux on?
-linux: because what else would I run on my ThinkPads?
-emacs: because I need Linux within Linux
-oss: so that everyone's free
-automobiles: preferably with three pedals
-videogames: with stories
-lists: as everything in life is a list
-productivity: to help me get around complex human life
-islam: because it's the way of life
+thinkpad||because what else would I run Linux on?||https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide#h.p_fC-1Yucf8rJt
+linux||because what else would I run on my ThinkPads?||https://www.youtube.com/watch?v=CVbABo0aXG4
+emacs||because I need Linux within Linux||https://github.com/myTerminal/world-of-emacs
+oss||so that everyone's free||https://www.youtube.com/watch?v=dhox4jNrBQM
+automobiles||preferably with three pedals||https://www.youtube.com/watch?v=UWv13ozqG0U
+videogames||with stories||https://steamcommunity.com/id/myTerminal/games/?tab=all
+lists||as everything in life is a list||https://books2read.com/b/how-to-stay-sane-with-your-tasks
+productivity||to help me get around complex human life||https://books2read.com/b/how-to-stay-sane-with-your-tasks
+islam||because it's the way of life||https://www.whyislam.org/
