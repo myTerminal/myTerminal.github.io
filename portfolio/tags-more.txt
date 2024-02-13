@@ -1,0 +1,21 @@
+computers||because how could ignore them?||https://www.youtube.com/watch?v=rRSD128KWIM
+void-linux||the foundation of all my computing needs||https://voidlinux.org
+i3wm||because keyboards are better than computer mice||https://i3wm.org
+swaywm||because who uses Xorg anymore?||https://swaywm.org
+lisp||the best programming language out there, and Common Lisp is best of the best||https://lisp-lang.org
+shell-scripts||because why would you do it any other way?||https://www.shellscript.sh
+rust-lang||the new "C"||https://www.rust-lang.org
+initial-d||"My FD can't outrun an old Eight-Six?!"||https://en.wikipedia.org/wiki/Initial_D
+photography||because I like playing with lights||https://portfolio.pixelfed.de/myTerminal
+video-games||...that help me learn||https://steamcommunity.com/id/myTerminal
+mass-effect||||https://www.youtube.com/watch?v=phpH0uy37EQ
+metro||||https://www.youtube.com/watch?v=k-P_W0igpmc
+fallout||||https://store.steampowered.com/app/377160/Fallout_4
+dirt-rally||||https://store.steampowered.com/app/690790/DiRT_Rally_20
+xcom||||https://store.steampowered.com/app/268500/XCOM_2
+
+
+
+
+
+
