@@ -2,9 +2,9 @@ computers||because how could ignore them?||https://www.youtube.com/watch?v=rRSD1
 void-linux||the foundation of all my computing needs||https://voidlinux.org
 i3wm||because keyboards are better than computer mice||https://i3wm.org
 swaywm||because who uses Xorg anymore?||https://swaywm.org
-lisp||the best programming language out there, and Common Lisp is best of the best||https://lisp-lang.org
+lisp||the best programming language out there, and Common Lisp is best of the best||https://www.youtube.com/watch?v=HM1Zb3xmvMc
 shell-scripts||because why would you do it any other way?||https://www.shellscript.sh
-rust-lang||the new "C"||https://www.rust-lang.org
+rust-lang||the new "C"||https://myterminal.me/diary/20200309/5-plus-ways-how-Rust-makes-you-a-better-programmer
 initial-d||"My FD can't outrun an old Eight-Six?!"||https://en.wikipedia.org/wiki/Initial_D
 photography||because I like playing with lights||https://portfolio.pixelfed.de/myTerminal
 video-games||...that help me learn||https://steamcommunity.com/id/myTerminal
