@@ -1,5 +1,6 @@
 # Diary
 
+- [ThinkPad X1 Nano: I've Been Waiting for This!](_page_20240412_\(VIDEO\)-ThinkPad-X1-Nano-Ive-Been-Waiting-for-This) - 04/12/2024
 - [A Comprehensive Guide to Computer Purchase: 12 - Letting Go](_page_20231217_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(12\)-Letting-Go) - 12/17/2023
 - [A Comprehensive Guide to Computer Purchase: 11 - Buying Online or In-Person](_page_20231210_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(11\)-Buying-Online-or-In-Person) - 12/10/2023
 - [A Comprehensive Guide to Computer Purchase: 10 - Getting More Value for Your Money](_page_20231208_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(10\)-Getting-More-Value-for-Your-Money) - 12/08/2023
