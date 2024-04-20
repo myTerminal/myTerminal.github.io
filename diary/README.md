@@ -1,5 +1,6 @@
 # Diary
 
+- [The ThinkPad X220 Couldn't Be More Practical, Even in 2024!](_page_20240426_\(VIDEO\)-The-ThinkPad-X220-Couldnt-Be-More-Practical-Even-in-2024) - 04/26/2024
 - [The ThinkPad W530 Is My Definition of ThinkPads](_page_20240419_\(VIDEO\)-The-ThinkPad-W530-Is-My-Definition-of-ThinkPads) - 04/19/2024
 - [ThinkPad X1 Nano: I've Been Waiting for This!](_page_20240412_\(VIDEO\)-ThinkPad-X1-Nano-Ive-Been-Waiting-for-This) - 04/12/2024
 - [A Comprehensive Guide to Computer Purchase: 12 - Letting Go](_page_20231217_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(12\)-Letting-Go) - 12/17/2023
