@@ -1,5 +1,6 @@
 # Diary
 
+- [The ThinkPad X61s Could Might As Well Be the Best Looking ThinkPad I’d Ever Own](_page_20240503_\(VIDEO\)-The-ThinkPad-X61s-Could-Might-As-Well-Be-the-Best-Looking-ThinkPad-Id-Ever-Own) - 05/03/2024
 - [The ThinkPad X220 Couldn't Be More Practical, Even in 2024!](_page_20240426_\(VIDEO\)-The-ThinkPad-X220-Couldnt-Be-More-Practical-Even-in-2024) - 04/26/2024
 - [The ThinkPad W530 Is My Definition of ThinkPads](_page_20240419_\(VIDEO\)-The-ThinkPad-W530-Is-My-Definition-of-ThinkPads) - 04/19/2024
 - [ThinkPad X1 Nano: I've Been Waiting for This!](_page_20240412_\(VIDEO\)-ThinkPad-X1-Nano-Ive-Been-Waiting-for-This) - 04/12/2024
