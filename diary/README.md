@@ -1,5 +1,6 @@
 # Diary
 
+- [You Need to Break Out of Your Browser](_page_20240517_\(VIDEO\)-You-Need-to-Break-Out-of-Your-Browser) - 05/17/2024
 - [I Switched Back from Brave to Firefox](_page_20240510_\(VIDEO\)-I Switched Back from Brave to Firefox) - 05/10/2024
 - [The ThinkPad X61s Could Might As Well Be the Best Looking ThinkPad I’d Ever Own](_page_20240503_\(VIDEO\)-The-ThinkPad-X61s-Could-Might-As-Well-Be-the-Best-Looking-ThinkPad-Id-Ever-Own) - 05/03/2024
 - [The ThinkPad X220 Couldn't Be More Practical, Even in 2024!](_page_20240426_\(VIDEO\)-The-ThinkPad-X220-Couldnt-Be-More-Practical-Even-in-2024) - 04/26/2024
