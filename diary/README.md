@@ -1,6 +1,6 @@
 # Diary
 
-## Phase 4
+## Phase 5: Stepping Up The Game
 
 - [You Need to Break Out of Your Browser](_page_20240517_\(VIDEO\)-You-Need-to-Break-Out-of-Your-Browser) - 05/17/2024
 - [I Switched Back from Brave to Firefox](_page_20240510_\(VIDEO\)-I-Switched-Back-from-Brave-to-Firefox) - 05/10/2024
@@ -8,6 +8,9 @@
 - [The ThinkPad X220 Couldn't Be More Practical, Even in 2024!](_page_20240426_\(VIDEO\)-The-ThinkPad-X220-Couldnt-Be-More-Practical-Even-in-2024) - 04/26/2024
 - [The ThinkPad W530 Is My Definition of ThinkPads](_page_20240419_\(VIDEO\)-The-ThinkPad-W530-Is-My-Definition-of-ThinkPads) - 04/19/2024
 - [ThinkPad X1 Nano: I've Been Waiting for This!](_page_20240412_\(VIDEO\)-ThinkPad-X1-Nano-Ive-Been-Waiting-for-This) - 04/12/2024
+
+## Phase 4: Documenting In The Name of Knowledge Sharing
+
 - [A Comprehensive Guide to Computer Purchase: 12 - Letting Go](_page_20231217_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(12\)-Letting-Go) - 12/17/2023
 - [A Comprehensive Guide to Computer Purchase: 11 - Buying Online or In-Person](_page_20231210_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(11\)-Buying-Online-or-In-Person) - 12/10/2023
 - [A Comprehensive Guide to Computer Purchase: 10 - Getting More Value for Your Money](_page_20231208_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(10\)-Getting-More-Value-for-Your-Money) - 12/08/2023
@@ -23,7 +26,7 @@
 - [I Finally Left Remember The Milk](_page_20231118_\(VIDEO\)-I-Finally-Left-Remember-The-Milk) - 11/18/2023
 - [My Adventures with ThinkPads](_page_20231015_\(VIDEO\)-My-Adventures-with-ThinkPads) - 10/15/2023
 
-## Phase 3
+## Phase 3: My Second YouTube Channel; Start of ThinkPads
 
 - [How to Stop Worrying About Losing Your Data](_page_20211225_\(VIDEO\)-How-to-Stop-Worrying-About-Losing-Your-Data) - 12/25/2021
 - [End of 2021, Here Comes 2022!](_page_20211204_\(VIDEO\)-End-of-2021-Here-Comes-2022) - 12/04/2021
@@ -54,7 +57,7 @@
 - [Back to Linux - Ep 02: So I bought a Windows laptop!](_page_20201203_\(VIDEO\)-Back-to-Linux-(Ep-02)-I-bought-a-Windows-laptop) - 12/03/2020
 - [Back to Linux - Ep 01: Leaving macOS](_page_20201130_\(VIDEO\)-Back-to-Linux-(Ep-01)-Leaving-macOS) - 11/30/2020
 
-## Phase 2
+## Phase 2: New Perspective
 
 - [5 plus ways how Rust makes you a better programmer](_page_20200309_5-plus-ways-how-Rust-makes-you-a-better-programmer) - 03/09/2020
 - [A few cleanups to relieve stress](_page_20200218_A-few-cleanups-to-relieve-stress) - 02/18/2020
@@ -70,7 +73,7 @@
 - [How I keep myself digitally organized](_page_20190330_How-I-keep-myself-digitally-organized) - 03/30/2019
 - [12 Reasons why I spend time on open source software](_page_20190329_12-Reasons-why-I-spend-time-on-open-source-software) - 03/29/2019
 
-## Phase 1
+## Phase 1: Early Random Thoughts
 
 - [My personal workstation configuration (as of 2017)](_page_20170918_My-personal-workstation-configuration-(as-of-2017)) - 09/18/2017
 - [19 Ways how Illinois suburbs are different from Mumbai](_page_20170831_19-Ways-how-Illinois-suburbs-are-different-from-Mumbai) - 08/31/2017
