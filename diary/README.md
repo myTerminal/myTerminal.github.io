@@ -1,5 +1,7 @@
 # Diary
 
+## Phase 4
+
 - [You Need to Break Out of Your Browser](_page_20240517_\(VIDEO\)-You-Need-to-Break-Out-of-Your-Browser) - 05/17/2024
 - [I Switched Back from Brave to Firefox](_page_20240510_\(VIDEO\)-I-Switched-Back-from-Brave-to-Firefox) - 05/10/2024
 - [The ThinkPad X61s Could Might As Well Be the Best Looking ThinkPad I’d Ever Own](_page_20240503_\(VIDEO\)-The-ThinkPad-X61s-Could-Might-As-Well-Be-the-Best-Looking-ThinkPad-Id-Ever-Own) - 05/03/2024
@@ -20,6 +22,9 @@
 - [A Comprehensive Guide to Computer Purchase: 01 - From Requirements to Criteria](_page_20231120_\(VIDEO\)-A-Comprehensive-Guide-To-Computer-Purchase-\(01\)-From-Requirements-to-Criteria) - 11/20/2023
 - [I Finally Left Remember The Milk](_page_20231118_\(VIDEO\)-I-Finally-Left-Remember-The-Milk) - 11/18/2023
 - [My Adventures with ThinkPads](_page_20231015_\(VIDEO\)-My-Adventures-with-ThinkPads) - 10/15/2023
+
+## Phase 3
+
 - [How to Stop Worrying About Losing Your Data](_page_20211225_\(VIDEO\)-How-to-Stop-Worrying-About-Losing-Your-Data) - 12/25/2021
 - [End of 2021, Here Comes 2022!](_page_20211204_\(VIDEO\)-End-of-2021-Here-Comes-2022) - 12/04/2021
 - [Back to Linux - Ep 10: My Opinion on the State of Linux Desktop](_page_20211127_\(VIDEO\)-Back-to-Linux-(Ep-10)-My-Opinion-on-the-State-of-Linux-Desktop) - 11/27/2021
@@ -48,6 +53,9 @@
 - [Back to Linux - Ep 03: Setting up my ThinkPad](_page_20201208_\(VIDEO\)-Back-to-Linux-(Ep-03)-Setting-up-my-ThinkPad) - 12/08/2020
 - [Back to Linux - Ep 02: So I bought a Windows laptop!](_page_20201203_\(VIDEO\)-Back-to-Linux-(Ep-02)-I-bought-a-Windows-laptop) - 12/03/2020
 - [Back to Linux - Ep 01: Leaving macOS](_page_20201130_\(VIDEO\)-Back-to-Linux-(Ep-01)-Leaving-macOS) - 11/30/2020
+
+## Phase 2
+
 - [5 plus ways how Rust makes you a better programmer](_page_20200309_5-plus-ways-how-Rust-makes-you-a-better-programmer) - 03/09/2020
 - [A few cleanups to relieve stress](_page_20200218_A-few-cleanups-to-relieve-stress) - 02/18/2020
 - [How I manage to meet most of my deadlines and still keep myself 'mostly' motivated](_page_20191227_How-I-manage-to-meet-most-of-my-deadlines-and-still-keep-myself-mostly-motivated) - 12/27/2019
@@ -61,6 +69,9 @@
 - [How life can be compared to a Massively Multiplayer Online Role Playing Game](_page_20190604_How-life-can-be-compared-to-a-Massively-Multiplayer-Online-Role-Playing-Game) - 06/04/2019
 - [How I keep myself digitally organized](_page_20190330_How-I-keep-myself-digitally-organized) - 03/30/2019
 - [12 Reasons why I spend time on open source software](_page_20190329_12-Reasons-why-I-spend-time-on-open-source-software) - 03/29/2019
+
+## Phase 1
+
 - [My personal workstation configuration (as of 2017)](_page_20170918_My-personal-workstation-configuration-(as-of-2017)) - 09/18/2017
 - [19 Ways how Illinois suburbs are different from Mumbai](_page_20170831_19-Ways-how-Illinois-suburbs-are-different-from-Mumbai) - 08/31/2017
 - [Moving away from TickTick](_page_20161204_Moving-away-from-TickTick) - 12/04/2016
