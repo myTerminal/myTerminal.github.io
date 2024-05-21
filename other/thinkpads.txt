@@ -1,5 +1,6 @@
 ThinkPad T15g Gen 2
 ThinkPad X1 Nano Gen 1
+ThinkPad X1 Tablet Gen 3
 ThinkPad W530
 ThinkPad X220
 ThinkPad X61s
