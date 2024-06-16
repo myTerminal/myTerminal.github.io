@@ -1,0 +1,66 @@
+# Pros and Cons of Using Old ThinkPads
+
+> This article is a transcript of a video that you can watch by clicking the thumbnail below. Hence, certain statements may not make sense in this text form, and watching the video instead is recommended.
+
+[![https://i.ytimg.com/vi/AG8ie_y_9WY/hq720.jpg](https://i.ytimg.com/vi/AG8ie_y_9WY/hq720.jpg)](https://youtu.be/AG8ie_y_9WY)
+
+## Intro
+
+You might have heard, how some people just love talking about their old ThinkPads. We're not talking about "regular" people, we're talking about [enthusiasts](https://www.reddit.com/r/thinkpad/comments/1b16xkm/this_is_how_chatgpt_sees_the_typical_thinkpad_fan/) who can often afford to buy the newest and most expensive machines out there, and some even own a few, but you'd still find them using machines that are over a decade old. Let's dive into this and talk about what it is like to use ThinkPads from another time.
+
+## What Older ThinkPads Are We Talking About?
+
+ThinkPads have changed a lot [since they were introduced](https://www.notebookcheck.net/THINK-A-brief-history-of-ThinkPads-from-IBM-to-Lenovo.418728.0.html). Man did they implement [their own way of housing larger camera sensors while still having screen bezels thinner than ever before](https://www.reddit.com/r/thinkpad/comments/14j6hqm/do_you_like_the_reverse_notch_on_thinkpads), but that's a topic for another day. [Older ThinkPads](https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide) have their place though. Depending on what you miss in the newer machines, you might have to go back to the time before they dropped that particular feature. Let's take a few examples.
+
+1. If you need a keyboard with deep key travel, even on the smallest machines, you'd need to go back to 2018 and earlier. It's hard to miss the difference if you ever had a chance to use a machine from 2018, and then one [just a generation newer in 2019](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Carbon-2019-WQHD-Live-Review-Still-the-reference-among-business-laptops.427853.0.html).
+2. If you miss the ThinkLight, you'll need to go back to 2012 or earlier, after which it never returned in a ThinkPad.
+3. If you're looking for the classic ThinkPad keyboard with 7-rows, you'll need to travel back to 2011 after which it was replaced with [a fresh redesign](https://www.notebookcheck.net/Lenovo-ThinkPad-X230-2306-2AU-Laptop-Review.75317.0.html#931796-1). There are ways people get around this in later ThinkPads, but a purist wouldn't do that, would they?
+4. If you miss the taller screens, you'd need to go back to 2010 or earlier.
+5. There's also a charm with the models from 2006/2007 and they're talked about more often than the others.
+6. If you'd rather prefer a pure ThinkPad experience in exchange for practicality, you might need to [go back even further](https://www.thinkwiki.org/wiki/ThinkPad_History). Unfortunately, I have very little experience beyond 2007, so I barely have a rough idea of what I missed.
+
+## Enthusiasts Do Not Like Newer ThinkPads
+
+Now let's dig deeper into why ThinkPad enthusiasts [do not like (and often hate) newer models](https://www.reddit.com/r/thinkpad/comments/11pozel/are_new_thinkpads_as_bad_as_folks_claim/).
+
+1. **Keyboards**: As briefly mentioned before, [keyboards form one of the biggest reasons](https://www.reddit.com/r/thinkpad/comments/18ccl30/modern_thinkpad_keyboards_are_still_the_best/) why newer ThinkPads do not appeal to enthusiasts the way the older ones did. Of course with slimmer designs, the key-travel, which is how much deeper the key goes when you press it, keeps getting reduced. However, key travel isn't the only complaint we have with newer keyboards, as even the layout makes a huge difference. When ThinkPads moved to the modern chicklet design in 2012, the keyboard lost an entire row, which is still a deal-breaker for many people today as the 7-row classic design resembled a desktop keyboard to them and many of the features are now merged into the function keys from F1 through F12.
+2. **Screen aspect ratios**: There was a time when the screens used to be taller, but as the newer designs leaned more towards multimedia consumption, 16:9 took over, and even though 16:10 has returned in some if not all models, it isn't any closer to 4:3, which is still something older users miss.
+3. **Ports**: Modern machines do not have as many ports anymore, with some models only shipping with three: a pair of USB-C ports and an audio jack. Granted that we do not need most of them today anyway, but needing an adapter just to be able to plug in something as basic as an SD Card reader upsets people.
+4. **Removable batteries**: There was a time when batteries were user-removable, and for a few years between 2013 and 2018, Lenovo also provided the [Power-Bridge technology](https://www.thinkwiki.org/wiki/Power_Bridge) that enabled the machine to run on two batteries and allowed the user to swap the external battery without turning the machine off. Not only do we not have the space for two batteries anymore, but we also do not even have the ability to swap the only battery the machine uses as it's now concealed [inside the chassis](https://www.notebookcheck.net/Lenovo-ThinkPad-T490-Laptop-Review-A-business-laptop-with-long-battery-life-and-an-iGPU.424838.0.html#6119671-8), sometimes behind a set of easily removable screws, and otherwise difficult-to-open plastic tabs that break more easily than you'd think.
+5. **Maintainance**: As ThinkPads got smaller, more and more components got soldered to the system board instead of being socketed. Some systems still [allow the user to upgrade or replace the RAM and the wireless card](https://www.notebookcheck.net/Lenovo-ThinkPad-T480-Core-i7-8650U-FHD-Laptop-Review.315574.0.html#4497058-17), but others barely allow replacing the storage drive.
+6. **Reliability**: Recent reviews show that the [modern ThinkPads aren't as reliable as the older ones](https://forums.lenovo.com/t5/ThinkPad-T400-T500-and-newer-T/Lenovo-T480-won-t-charge-through-USB-C/td-p/4380517). There are [machines from over a decade ago](https://www.reddit.com/r/thinkpad/comments/1cub368/thinkpad_t61_still_going_strong/), that are still being used by some people as their daily drivers. On the other hand, the newer ones often show up on eBay with faulty charging ports for example, which wasn't an issue with the older ThinkPads, and even if it were to happen to an older machine, they weren't soldered directly to the motherboard and could be replaced.
+
+## Older ThinkPads Could Be Limiting
+
+So we've talked about how we love [older ThinkPads](https://en.wikipedia.org/wiki/ThinkPad_X_series#/media/File:ThinkPad_X220.jpg). However, using these machines today brings up a few challenges in terms of practicality. Let's talk about a few:
+
+1. **Hardware specifications**: With the ever-growing demands of modern computing, older hardware can quickly get incapable in terms of computing power. Some [older models had socketed CPUs](https://www.youtube.com/watch?v=ZOx6MgR_3BY), and people have pushed them beyond designed limits by upgrading to the best possible hardware, but there's often a limit to how far you can push. More powerful hardware needs more power drawn from the battery, more space, and also better cooling. 
+2. **Power consumption**: Older designs weren't as power-efficient as the newer hardware. For example, my X1 Nano with way better components and a significantly brighter and higher-resolution screen consumes less power than an X220 with neither.
+3. **Batteries**: You'd barely find an older ThinkPad with the original battery that shipped with the system. Even if you did, [the number of charge-discharge cycles along with its age](https://faraday.ac.uk/wp-content/uploads/2021/04/Faraday_Insights_10_web_FINAL.pdf) make it less capable of holding a full charge and also hold that limited amount of charge for longer. Buying replacement batteries for these systems can be challenging, and the online marketplace is full of knock-offs that are sometimes terribly bad and degrade even more quickly. Just in case you do find a genuine battery, it would cost several times more than the machine itself. 
+4. **Power supply**: Older ThinkPads only supported Lenovo's proprietary charging connectors. The ones that I've owned are the standard barrel connector, the other barrel connector for workstation notebooks like my W530, and the Lenovo flat-pin charging connector.
+5. **Screen technologies**: Older displays weren't only limited in the number of pixels they came with, but also in terms of the other quality factors like color reproduction, viewing angles, and maximum brightness.
+6. **Connectivity**: Many of the newer ports and connectivity standards didn't exist back then, so you'd often be limited to what your old ThinkPad can connect to. This also extends to wireless communication in terms of Bluetooth standards, and how older hardware was limited to only 2.4GHz WiFi networks.
+7. **Size and weight**: Older machines weren't as thin and light, and when you add monstrous charging bricks like the one I have for my W530, that becomes one extra thing to carry along.
+8. **Software support**: [Linux](https://linux.org) is a popular choice for older hardware, and for ThinkPads that are known to do great with Linux, it's nothing less than a perfect combination. Having said that, [you won't be able to run all operating systems on older machines](https://tecadmin.net/lightweight-linux-distros/). While it's way better a situation than the recent versions of [Windows](https://www.microsoft.com/en-us/windows/), some Linux distributions need better hardware than others, and that can also change significantly with your choice of software that you run on your computer.
+
+## How Newer ThinkPads Are Better
+
+Now we know how older ThinkPads could sometimes (if not always) be limiting. Newer machines on the other hand could be more practical in the same areas:
+
+1. **Form-factors**: Manufacturers have been experimenting with newer form-factors that we never saw before. For example, the [X1 Tablet](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Tablet-2018-i5-3K-IPS-Convertible-Review.394881.0.html#5650196-1) that has a removable keyboard, unlike the [X230T](https://www.notebookcheck.net/Review-Lenovo-ThinkPad-X230t-N2C2AGE-Convertible.92193.0.html#1159299). Also, I cannot imagine how anything like the [X1 Fold](https://www.notebookcheck.net/Lenovo-ThinkPad-X1-Fold-laptop-in-review-Revolutionary-or-overpriced-experiment.530502.0.html#7462901-1) could have ever existed before foldable screens were even a thing.
+2. **Hardware**: Modern hardware is very powerful, and it includes faster CPUs with more cores, faster RAMs with higher capacities, and storage drives with faster and more efficient data retention technology. Not to forget how the integrated graphics processors today are way better than the dedicated graphics that high-end workstation machines used to ship with back in the day.
+3. **Power consumption**: Newer hardware doesn't consume nearly as much power as the older ThinkPads do. We've already talked about the example with the X1 Nano, but it's very similar to a lot of other modern machines.
+4. **Batteries**: Modern batteries with smaller capacity often outperform older ones with larger capacity. These have also gone down in size and weight. 
+5. **Power supplies**: Most modern ThinkPads (except for workstation notebooks) can be charged using USB-C chargers. People love this as they can share the same charger across several electronic gadgets.
+6. **Screen technologies**: Even if you ignore the OLED screens, the IPS screens that modern ThinkPads ship with are way better than the TN panels that used to be an option on older models. We now have several models that can be configured with a 4K screen with touch input, even if it is not a convertible notebook.
+7. **Connectivity**: Modern ThinkPads can connect to faster wireless networks including WiFi and cellular, and support the latest Bluetooth connectivity standards. Thunderbolt enables a few more possibilities with things like an external GPU. 
+8. **Size and weight**: We do not even need to talk about the size and weight of newer ThinkPads, given how most of the compromises enthusiasts have to make today are due to these two physical factors.
+9. **Software support**: There's also no doubt that newer hardware is always better at running modern software as compared to the older ones.
+
+## Conclusion
+
+So the conclusion isn't a simple one. Our machines have lost a lot of capabilities and features, and most of them help us achieve something in exchange. Whether or not it helps you may depend from person to person. Don't get me wrong, as I still like my barely capable X61s and the relatively outdated X220, but on the other hand, I also enjoy working on my X1 Nano, which is probably my best overall ThinkPad yet.
+
+## Outro
+
+That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

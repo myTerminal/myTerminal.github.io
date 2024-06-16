@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [Pros and Cons of Using Old ThinkPads](_page_20240621_\(VIDEO\)-Pros-and-Cons-of-Using-Old-ThinkPads) - 06/21/2024
 - [You Need to Break Out of Your Browser](_page_20240517_\(VIDEO\)-You-Need-to-Break-Out-of-Your-Browser) - 05/17/2024
 - [I Switched Back from Brave to Firefox](_page_20240510_\(VIDEO\)-I-Switched-Back-from-Brave-to-Firefox) - 05/10/2024
 - [The ThinkPad X61s Could Might As Well Be the Best Looking ThinkPad I’d Ever Own](_page_20240503_\(VIDEO\)-The-ThinkPad-X61s-Could-Might-As-Well-Be-the-Best-Looking-ThinkPad-Id-Ever-Own) - 05/03/2024
