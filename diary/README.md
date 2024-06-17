@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [Not All ThinkPads are The Same](_page_20240628_\(VIDEO\)-Not-All-ThinkPads-are-The-Same) - 06/28/2024
 - [Pros and Cons of Using Old ThinkPads](_page_20240621_\(VIDEO\)-Pros-and-Cons-of-Using-Old-ThinkPads) - 06/21/2024
 - [You Need to Break Out of Your Browser](_page_20240517_\(VIDEO\)-You-Need-to-Break-Out-of-Your-Browser) - 05/17/2024
 - [I Switched Back from Brave to Firefox](_page_20240510_\(VIDEO\)-I-Switched-Back-from-Brave-to-Firefox) - 05/10/2024
