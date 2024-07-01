@@ -22,11 +22,11 @@ I wouldn't say this machine is any different than your regular ThinkPad at first
 
 ## Review
 
-- Now in terms of how this machine fares as compared to the other workstation notebooks I've known and used, the amount of expandability is definitely reduced as compare to the older predecessors like the [W530](https://www.notebookcheck.net/Review-Lenovo-ThinkPad-W530-N1K43GE-Notebook.80062.0.html). But then I do not know how Lenovo would have modernized their workstation notebooks otherwise.
-- Though there were better screen options, I didn't have a choice as I bought this from a third-party reseller. So the screen is one of the worse screens I've had in a notebook computer.
-- The RTX 3080 makes it a beast, and though I decided not to go with an Nvidia GPU ever again after facing issues on my X1 Extreme, I couldn't find a ThinkPad as capable as this that came with an AMD GPU.
-- I love how some of the ports have been moved to the back, and speaking of ports, we have everything you need including a full-sized ethernet port, an HDMI port, a full-sized SD card reader, an audio port, a SIM card slot, and multiple of both, the USB-A and USB-C ports.
-- The only negative for a notebook like this would be the power adapter, which is even heavier than the one for the X1 Extreme and weighs almost a kilogram.
+1. Now in terms of how this machine fares as compared to the other workstation notebooks I've known and used, the amount of expandability is definitely reduced as compare to the older predecessors like the [W530](https://www.notebookcheck.net/Review-Lenovo-ThinkPad-W530-N1K43GE-Notebook.80062.0.html). But then I do not know how Lenovo would have modernized their workstation notebooks otherwise.
+2. Though there were better screen options, I didn't have a choice as I bought this from a third-party reseller. So the screen is one of the worse screens I've had in a notebook computer.
+3. The RTX 3080 makes it a beast, and though I decided not to go with an Nvidia GPU ever again after facing issues on my X1 Extreme, I couldn't find a ThinkPad as capable as this that came with an AMD GPU.
+4. I love how some of the ports have been moved to the back, and speaking of ports, we have everything you need including a full-sized ethernet port, an HDMI port, a full-sized SD card reader, an audio port, a SIM card slot, and multiple of both, the USB-A and USB-C ports.
+5. The only negative for a notebook like this would be the power adapter, which is even heavier than the one for the X1 Extreme and weighs almost a kilogram.
 
 ## Carry-Bag
 
