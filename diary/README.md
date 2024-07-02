@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [My X220 Finally Has a Successor](_page_20240719_\(VIDEO\)-My-X220-Finally-Has-a-Successor)
 - [The ThinkPad T15g Gen 2 is My Most Powerful Workstation Yet](_page_20240712_\(VIDEO\)-The-ThinkPad-T15g-is-My-Most-Powerful-Workstation-Yet) - 07/12/2024
 - [My First Tablet is a ThinkPad](_page_20240705_\(VIDEO\)-My-First-Tablet-is-a-ThinkPad) - 07/05/2024
 - [Not All ThinkPads are The Same](_page_20240628_\(VIDEO\)-Not-All-ThinkPads-are-The-Same) - 06/28/2024
