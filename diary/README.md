@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [I Destroyed a Circuit Board to Make My ThinkPad Faster](_page_20241004_\(VIDEO\)-I-Destroyed-a-Circuit-Board-to-Make-My-ThinkPad-Faster) - 10/04/2024
 - [How Many ThinkPads Are Too Many?](_page_20240726_\(VIDEO\)-How-Many-ThinkPads-Are-Too-Many)
 - [My X220 Finally Has a Successor](_page_20240719_\(VIDEO\)-My-X220-Finally-Has-a-Successor)
 - [The ThinkPad T15g Gen 2 is My Most Powerful Workstation Yet](_page_20240712_\(VIDEO\)-The-ThinkPad-T15g-is-My-Most-Powerful-Workstation-Yet) - 07/12/2024
