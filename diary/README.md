@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [I Finally Unlocked My X230 (for More Upgrades)](_page_20241007_\(VIDEO\)-I-Finally-Unlocked-My-X230) - 10/07/2024
 - [I Destroyed a Circuit Board to Make My ThinkPad Faster](_page_20241004_\(VIDEO\)-I-Destroyed-a-Circuit-Board-to-Make-My-ThinkPad-Faster) - 10/04/2024
 - [How Many ThinkPads Are Too Many?](_page_20240726_\(VIDEO\)-How-Many-ThinkPads-Are-Too-Many)
 - [My X220 Finally Has a Successor](_page_20240719_\(VIDEO\)-My-X220-Finally-Has-a-Successor)
