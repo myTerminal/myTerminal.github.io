@@ -2,7 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
-- [The ThinkPad X13 Yoga Isn't Your Regular Chromebook](_page_20241011_\(VIDEO\)-The-ThinkPad-C13-Yoga-Isnt-Your-Regular-Chromebook) - 10/11/2024
+- [The ThinkPad C13 Yoga Isn't Your Regular Chromebook](_page_20241011_\(VIDEO\)-The-ThinkPad-C13-Yoga-Isnt-Your-Regular-Chromebook) - 10/11/2024
 - [I Finally Unlocked My X230 (for More Upgrades)](_page_20241007_\(VIDEO\)-I-Finally-Unlocked-My-X230) - 10/07/2024
 - [I Destroyed a Circuit Board to Make My ThinkPad Faster](_page_20241004_\(VIDEO\)-I-Destroyed-a-Circuit-Board-to-Make-My-ThinkPad-Faster) - 10/04/2024
 - [How Many ThinkPads Are Too Many?](_page_20240726_\(VIDEO\)-How-Many-ThinkPads-Are-Too-Many)
