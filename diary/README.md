@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [ThinkPad X61 vs X61s: There Isn't Much!](_page_2024102500-video) - 10/25/2024
 - [This 17-Year-Old ThinkPad Continues to (Re)Shape My Setup](_page_2024101800-video) - 10/18/2024
 - [The ThinkPad C13 Yoga Isn't Your Regular Chromebook](_page_2024101100-video) - 10/11/2024
 - [I Finally Unlocked My X230 (for More Upgrades)](_page_2024100700-video) - 10/07/2024
