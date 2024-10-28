@@ -1,0 +1,39 @@
+#!/bin/bash
+
+# Define the multi-line string
+text="# I May Be Wrong!
+
+These are my personal opinions and experiences.
+
+Certain facts in this video may not be accurate.
+Feel free to point out my mistakes, as I'd love to learn from you and also make the necessary corrections.
+
+Also, please be kind in the comments. :)
+"
+
+# Define min and max delay (in seconds) for typing speed
+min_delay=0.03
+max_delay=0.1
+
+# Function to print each character with a randomized delay
+type_text() {
+  local message="$1"
+
+  for (( i=0; i<${#message}; i++ )); do
+    # Print each character without a newline
+    echo -n "${message:i:1}"
+    # Randomized delay between min_delay and max_delay
+    sleep "$(awk -v min=$min_delay -v max=$max_delay 'BEGIN{srand(); print min+rand()*(max-min)}')"
+  done
+
+  # Print a newline at the end of each line
+  echo
+}
+
+# Set up the screen
+clear
+
+# Loop through each line in the text and type it out
+while IFS= read -r line; do
+  type_text "$line"
+done <<< "$text"
