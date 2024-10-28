@@ -1,18 +1,18 @@
 computers||because how could ignore them?||https://www.youtube.com/watch?v=rRSD128KWIM
-void-linux||the foundation of all my computing needs||https://voidlinux.org
+void-linux||the software foundation for all my computing needs||https://voidlinux.org
 i3wm||because keyboards are better than computer mice||https://i3wm.org
 swaywm||because who uses Xorg anymore?||https://swaywm.org
-lisp||the best programming language out there, and Common Lisp is best of the best||https://www.youtube.com/watch?v=HM1Zb3xmvMc
+lisp||the best programming language out there, Common Lisp being best of the best||https://www.youtube.com/watch?v=HM1Zb3xmvMc
 shell-scripts||because why would you do it any other way?||https://www.shellscript.sh
-rust-lang||the new "C"||https://myterminal.me/diary/20200309/5-plus-ways-how-Rust-makes-you-a-better-programmer
+rust-lang||the new "C" I have a love-hate relationship with||https://myterminal.me/diary/20200309/5-plus-ways-how-Rust-makes-you-a-better-programmer
 initial-d||"My FD can't outrun an old Eight-Six?!"||https://en.wikipedia.org/wiki/Initial_D
 photography||because I like playing with lights||https://portfolio.pixelfed.de/myTerminal
 video-games||...that help me learn||https://steamcommunity.com/id/myTerminal
 mass-effect||||https://www.youtube.com/watch?v=phpH0uy37EQ
 metro||||https://www.youtube.com/watch?v=k-P_W0igpmc
 fallout||||https://store.steampowered.com/app/377160/Fallout_4
-dead-space||because Ishimura!||https://www.ea.com/games/dead-space/dead-space
-dirt-rally||||https://store.steampowered.com/app/690790/DiRT_Rally_20
+dead-space||because Ishimura is awesome!||https://www.ea.com/games/dead-space/dead-space
+dirt-rally||where I can express myself through three pedals without getting in trouble||https://store.steampowered.com/app/690790/DiRT_Rally_20
 xcom||||https://store.steampowered.com/app/268500/XCOM_2
 
 
