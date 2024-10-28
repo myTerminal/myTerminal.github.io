@@ -1,6 +1,6 @@
 ## Summary
 
-With a robust fourteen-year tenure as a software professional, my expertise extends beyond the confines of work into a realm where passion and proficiency intersect. Embarking on my career in the early 2000s, I have navigated through diverse disciplines, platforms, and tech stacks, dedicating the past decade to crafting immersive web experiences through the mastery of front-end technologies.
+With a robust fifteen-year tenure as a software professional, my expertise extends beyond the confines of work into a realm where passion and proficiency intersect. Embarking on my career in the early 2000s, I have navigated through diverse disciplines, platforms, and tech stacks, dedicating the past decade to crafting immersive web experiences through the mastery of front-end technologies.
 
 My approach to technology is characterized by a forward-thinking outlook, an insatiable curiosity for knowledge, and an unwavering commitment to continuous improvement. These qualities serve as invaluable tools in my arsenal, enabling me to autonomously tackle challenges both within and beyond my defined expertise. Beyond personal growth, my enthusiasm extends to sharing knowledge and mentoring, making me a source of technical inspiration within my team and the broader professional sphere.
 
