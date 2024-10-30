@@ -1,19 +1,13 @@
 #!/bin/bash
 
 # Define the multi-line string
-text="# I May Be Wrong!
-
-These are my personal opinions and experiences.
-
-Certain facts in this video may not be accurate.
-Feel free to point out my mistakes, as I'd love to learn from you and also make the necessary corrections.
-
-Also, please be kind in the comments. :)
+text="
+Thanks for watching!
 "
 
 # Define min and max delay (in seconds) for typing speed
-min_delay=0.03
-max_delay=0.1
+min_delay=0.13
+max_delay=0.15
 
 # Function to print each character with a randomized delay
 type_text() {
