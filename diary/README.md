@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [The ThinkPad X201 (Still) Feels Futuristic!](_page_2024112400-video) - 11/24/2024
 - [ThinkPad X61 vs X61s: There Isn't Much!](_page_2024102500-video) - 10/25/2024
 - [This 17-Year-Old ThinkPad Continues to (Re)Shape My Setup](_page_2024101800-video) - 10/18/2024
 - [The ThinkPad C13 Yoga Isn't Your Regular Chromebook](_page_2024101100-video) - 10/11/2024
