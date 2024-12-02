@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [ThinkPad X61 vs X201 vs X230: An X-series Showdown](_page_2024120200-video) - 12/02/2024
 - [The ThinkPad X201 (Still) Feels Futuristic!](_page_2024112400-video) - 11/24/2024
 - [ThinkPad X61 vs X61s: There Isn't Much!](_page_2024102500-video) - 10/25/2024
 - [This 17-Year-Old ThinkPad Continues to (Re)Shape My Setup](_page_2024101800-video) - 10/18/2024
