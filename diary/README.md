@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [Dell XPS M1710: A Few Comparisons](_page_2025013100-video) - 01/31/2025
 - [Dell XPS M1710: Software Setup](_page_2025012900-video) - 01/29/2025
 - [Dell XPS M1710: Finally Holding My Childhood Dream Machine!](_page_2025012700-video) - 01/27/2025
 - [The Dell XPS M1210: A Subnotebook with a Twist](_page_2025010100-video) - 01/01/2025
