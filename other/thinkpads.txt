@@ -2,7 +2,6 @@ ThinkPad T15g Gen 2
 ThinkPad X1 Nano Gen 1
 ThinkPad X1 Extreme Gen 3
 ThinkPad X230
-ThinkPad X201
 ThinkPad X301
 ThinkPad X61s
 ThinkPad X1 Carbon Gen 7
@@ -16,5 +15,6 @@ ThinkPad X1 Yoga Gen 1
 ThinkPad W530
 ThinkPad X220
 ThinkPad T420s
+ThinkPad X201
 ThinkPad X61
 ThinkPad T61p
