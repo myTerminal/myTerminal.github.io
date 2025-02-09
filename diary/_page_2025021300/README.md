@@ -21,7 +21,3 @@ One issue with a watch like this can be trying to get it to change the date corr
 ## Conclusion
 
 Overall, I’d say that I couldn’t have been happier with a watch as much as I have been with this Casio Forester. I’d even go on to say that these are probably the best 20 dollars I’ve spent on anything I remember.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

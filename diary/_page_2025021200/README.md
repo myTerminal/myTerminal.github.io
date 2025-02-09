@@ -40,7 +40,3 @@ The next obvious question to someone like me who already has an unreasonably dee
 ## Conclusion
 
 I guess it wouldn't be an overstatement if I said that owning this DW290 gave me the same amount of happiness as I get by trying an old ThinkPad. Now let's see where this new fascination with Casio digital watches takes me.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".
