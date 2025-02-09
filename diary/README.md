@@ -2,6 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
+- [The Long Awaited Steam Deck is Here!](_page_2025021700) - 02/17/2025
 - [I’m Bridging the Gap with the Casio GW-6900](_page_2025021400) - 02/14/2025
 - [Meet My (Real) First Casio: Forester](_page_2025021300) - 02/13/2025
 - [Meet My First Casio: DW-290](_page_2025021200) - 02/12/2025
