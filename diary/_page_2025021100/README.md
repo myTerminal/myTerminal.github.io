@@ -71,4 +71,4 @@ The ThinkPad community taught me to be resourceful with older models, be gratefu
 
 The way we can go on and on about a machine that was long discontinued, these people are geeky down to details like whether the countdown timer on their decades-old digital watch allows auto-repeat.
 
-I no longer think all G-Shocks are the same. Am I about to join a cult I did not even know existed? Stay tuned, and we’ll find that out together, that is in the next video.
+I no longer think all G-Shocks are the same. Am I about to join a cult I did not even know existed? Stay tuned, and we’ll find that out together!

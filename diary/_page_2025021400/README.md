@@ -2,7 +2,7 @@
 
 ## Intro
 
-So as I mentioned in a previous video about the [DW-290](https://www.casio.com/us/watches/casio/product.DW-290-1V), it isn’t a perfect watch. Also, I did eventually fall into the rabbit hole once more. The idea was to have a Casio that had all the other features the DW-290 did not have, and that is where this [GW-6900](https://www.casio.com/us/watches/gshock/product.GW-6900-1) made an entry.
+So as I mentioned recently about the [DW-290](https://www.casio.com/us/watches/casio/product.DW-290-1V), it isn’t a perfect watch. Also, I did eventually fall into the rabbit hole once more. The idea was to have a Casio that had all the other features the DW-290 did not have, and that is where this [GW-6900](https://www.casio.com/us/watches/gshock/product.GW-6900-1) made an entry.
 
 ## The GW-6900
 

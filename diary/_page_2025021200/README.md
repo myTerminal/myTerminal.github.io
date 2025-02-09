@@ -6,7 +6,7 @@ My earlier exercise did give me a fair idea of what all was out there, and at le
 
 ## Got Pulled Towards G-Shock
 
-So according to the story till the last video, I was being pulled hard towards [G-Shock](https://gshock.casio.com). After days of research, which I obviously won’t be able to cover in this video, I narrowed down my options to the following:
+So according to the story till now, I was being pulled hard towards [G-Shock](https://gshock.casio.com). After days of research, which I obviously won’t be able here, I narrowed down my options to the following:
 
 Now keep in mind that the models that we’re about to discuss come in a lot of different variations and features, like Bluetooth capability, or an inverted display, so that may change a lot of things including the price and the overall value of the watch in terms of how useful it is eventually. The models were as follows:
 

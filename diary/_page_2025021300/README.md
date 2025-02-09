@@ -2,7 +2,7 @@
 
 ## Intro
 
-So I pretty much lied in the last video by calling the DW-290 my first [Casio](https://www.casio.com). As a matter of fact, I took my time to decide on that watch. Meanwhile, one decision was easy, and that was to pick up this [Casio Forester](https://www.casio.com/us/watches/casio/product.FT-500WC-5BV) as a beater watch that I could wear anywhere I wanted.
+So I pretty much recently by calling the DW-290 my first [Casio](https://www.casio.com). As a matter of fact, I took my time to decide on that watch. Meanwhile, one decision was easy, and that was to pick up this [Casio Forester](https://www.casio.com/us/watches/casio/product.FT-500WC-5BV) as a beater watch that I could wear anywhere I wanted.
 
 ## The Forester
 
