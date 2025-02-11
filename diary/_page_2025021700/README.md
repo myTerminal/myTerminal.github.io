@@ -60,7 +60,7 @@ Now there’s a battery in there, and the way I’ve been over-conscious about m
 3. Some believe that Valve may already have implemented it behind the scenes such that when it says the battery is charged at 100%, it may be 80% underneath. Upon my investigation, that clearly isn’t the case, and you can easily verify that from the KDE energy management window.
 4. I finally resorted to running commands on my own, but it didn’t work either.
 
-So with all those methods out of the way, there’s still one that remains, which is for me to manually keep and eye on the battery charge level and making sure I do not over-charge or over-discharge the battery. I know how difficult it can be on a gaming machine while you’re deeply invested in a game, but what other choice do I have?
+So with all those methods out of the way, there’s still one that remains, which is for me to manually keep an eye on the battery charge level and make sure I do not over-charge or over-discharge the battery. I know how difficult it can be on a gaming machine while you’re deeply invested in a game, but what other choice do I have?
 
 ## Tiny Nitpicks
 
