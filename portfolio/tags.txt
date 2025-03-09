@@ -1,9 +1,10 @@
-thinkpad||because what else would I run Linux on?||https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide#h.p_fC-1Yucf8rJt
+thinkpads||because what else would I run Linux on?||https://www.bobble.tech/free-stuff/used-thinkpad-buyers-guide#h.p_fC-1Yucf8rJt
 linux||because what else would I run on my ThinkPads?||https://www.youtube.com/watch?v=CVbABo0aXG4
 emacs||so that I can run Linux, within Linux||https://github.com/myTerminal/world-of-emacs
 oss||so that everyone's free||https://www.youtube.com/watch?v=dhox4jNrBQM
+g-shocks||because they're ThinkPads on wrists||https://gshock.casio.com
 automobiles||preferably with three pedals||https://www.youtube.com/watch?v=UWv13ozqG0U
 tools||to get the job done, with style||https://github.com/myTerminal/dotfiles?tab=readme-ov-file#software-selection
 lists||as everything in life is a list||https://books2read.com/b/the-list-whisperer
 productivity||to help me get around complex human life||https://books2read.com/b/how-to-stay-sane-with-your-tasks
-islam||because it's the way of life||https://www.whyislam.org
+islam||because it's "the" way of life||https://www.whyislam.org
