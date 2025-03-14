@@ -1,4 +1,4 @@
-# The ThinkStation P340 SFF is Amazingly Extensible
+# A Quick CPU Repaste on the X201
 
 > This article is a transcript of a video that you can watch by clicking the thumbnail below. Hence, certain statements may not make sense in this text form, and watching the video instead is recommended.
 
