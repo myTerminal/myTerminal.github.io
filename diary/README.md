@@ -2,7 +2,7 @@
 
 ## Phase 5: Stepping Up The Game
 
-- (missing...)
+- [The ThinkCentre M715q is Too Powerful (For Its Size) (Short)](_page_2025022800-video_short) - 02/28/2025
 - [Tinting X230’s Cover Hinges (Short)](_page_2025022700-video_short) - 02/27/2025
 - [Choosing a ThinkPad for International Travel (Short)](_page_2025022600-video_short) - 02/26/2025
 - [Mobile Phones Aren't Exciting Anymore (Short)](_page_2025021900-video_short) - 02/19/2025
