@@ -6,7 +6,7 @@
 - (missing...)
 - (missing...)
 - (missing...)
-- (missing...)
+- [The Best Notebook Design To Me is the ThinkPad X301 (Short)](_page_2025021800-video_short) - 02/18/2025
 - [Battery Charge Thresholds on the Steam Deck (Short)](_page_2025021701-video_short) - 02/17/2025
 - [The Long Awaited Steam Deck is Here!](_page_2025021700) - 02/17/2025
 - [Taking Care of Batteries (Short)](_page_2025021401-video_short) - 02/14/2025
