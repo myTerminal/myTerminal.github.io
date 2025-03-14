@@ -5,7 +5,7 @@
 - (missing...)
 - (missing...)
 - (missing...)
-- (missing...)
+- [Mobile Phones Aren't Exciting Anymore (Short)](_page_2025021900-video_short) - 02/19/2025
 - [The Best Notebook Design To Me is the ThinkPad X301 (Short)](_page_2025021800-video_short) - 02/18/2025
 - [Battery Charge Thresholds on the Steam Deck (Short)](_page_2025021701-video_short) - 02/17/2025
 - [The Long Awaited Steam Deck is Here!](_page_2025021700) - 02/17/2025
