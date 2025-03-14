@@ -10,10 +10,10 @@
 - (missing...)
 - (missing...)
 - (missing...)
-- (missing...)
 - [The Long Awaited Steam Deck is Here!](_page_2025021700) - 02/17/2025
 - [I’m Bridging the Gap with the Casio GW-6900](_page_2025021400) - 02/14/2025
 - [Meet My (Real) First Casio: Forester](_page_2025021300) - 02/13/2025
+- [The X61s Isn't Getting Older (Short)](_page_2025021201) - 02/12/2025
 - [Meet My First Casio: DW-290](_page_2025021200) - 02/12/2025
 - [I’m Diving into the World of Wristwatches (Start of a New Hobby?)](_page_2025021100) - 02/11/2025
 - [The ThinkStation P340 SFF is Amazingly Extensible](_page_2025021000-video) - 02/10/2025
