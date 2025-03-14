@@ -1,5 +1,9 @@
 # Diary
 
+## Phase 6: Turning Towards Wristwatches
+
+(A lot will come here soon)
+
 ## Phase 5: Stepping Up The Game
 
 - [The ThinkCentre M715q is Too Powerful (For Its Size) (Short)](_page_2025022800-video_short) - 02/28/2025
