@@ -7,8 +7,7 @@
 - (missing...)
 - (missing...)
 - (missing...)
-- (missing...)
-- (missing...)
+- [Battery Charge Thresholds on the Steam Deck (Short)](_page_2025021701-video_short) - 02/17/2025
 - [The Long Awaited Steam Deck is Here!](_page_2025021700) - 02/17/2025
 - [Taking Care of Batteries (Short)](_page_2025021401-video_short) - 02/14/2025
 - [I’m Bridging the Gap with the Casio GW-6900](_page_2025021400) - 02/14/2025
