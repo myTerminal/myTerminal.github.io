@@ -2,6 +2,15 @@
 
 ## Phase 5: Stepping Up The Game
 
+- (missing...)
+- (missing...)
+- (missing...)
+- (missing...)
+- (missing...)
+- (missing...)
+- (missing...)
+- (missing...)
+- (missing...)
 - [The Long Awaited Steam Deck is Here!](_page_2025021700) - 02/17/2025
 - [I’m Bridging the Gap with the Casio GW-6900](_page_2025021400) - 02/14/2025
 - [Meet My (Real) First Casio: Forester](_page_2025021300) - 02/13/2025
@@ -9,6 +18,7 @@
 - [I’m Diving into the World of Wristwatches (Start of a New Hobby?)](_page_2025021100) - 02/11/2025
 - [The ThinkStation P340 SFF is Amazingly Extensible](_page_2025021000-video) - 02/10/2025
 - [The HP ProBook 4540s is A Breeze to Maintain!](_page_2025020700-video) - 02/07/2025
+- [A Quick CPU Thermal Repaste on the X201 (Short)](_page_2025020300-video_short) - 02/03/2025
 - [Dell XPS M1710: A Few Comparisons](_page_2025013100-video) - 01/31/2025
 - [Dell XPS M1710: Software Setup](_page_2025012900-video) - 01/29/2025
 - [Dell XPS M1710: Finally Holding My Childhood Dream Machine!](_page_2025012700-video) - 01/27/2025
