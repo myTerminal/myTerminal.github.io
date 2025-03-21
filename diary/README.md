@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I’m Switching Gears for My Upcoming Videos (Short)](_page_2025040100-video_short) - 04/01/2025
 - [I Found a Cult Parallel to ThinkPads (Short)](_page_2025033100-video_short) - 03/31/2025
 
 ## Phase 5: Stepping Up The Game
