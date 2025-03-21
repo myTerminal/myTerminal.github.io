@@ -2,7 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
-(A lot will come here soon)
+- [I Found a Cult Parallel to ThinkPads (Short)](_page_2025033100-video_short) - 03/31/2025
 
 ## Phase 5: Stepping Up The Game
 
