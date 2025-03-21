@@ -1,8 +1,8 @@
 # Diary
 
 ## Phase 6: Turning Towards Wristwatches
-
-- [The Casio Forester Couldn’t Have Been More Value For Money (Short)](_page_2025040200-video_short)
+- [My First Digital Casio is a DW-290 (Short)](_page_2025040300-video_short) - 04/03/2025
+- [The Casio Forester Couldn’t Have Been More Value For Money (Short)](_page_2025040200-video_short) - 04/02/2025
 - [I’m Switching Gears for My Upcoming Videos (Short)](_page_2025040100-video_short) - 04/01/2025
 - [I Found a Cult Parallel to ThinkPads (Short)](_page_2025033100-video_short) - 03/31/2025
 
