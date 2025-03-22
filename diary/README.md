@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [G-Shock GD-350 (Short)](_page_2025041800-video_short) - 04/18/2025
 - [G-Shock GW-2310 & GW-2310FB (Short)](_page_2025041700-video_short) - 04/17/2025
 - [G-Shock GW-M500F, GW-M500F & GW-M500BA (Short)](_page_2025041600-video_short) - 04/16/2025
 - [G-Shock GW-500A & GW-530A (Short)](_page_2025041500-video_short) - 04/15/2025
