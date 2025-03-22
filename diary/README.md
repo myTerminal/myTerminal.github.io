@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My First G-Shock is a GW-6900 (Short)](_page_2025040700-video_short) - 04/07/2025
 - [I Scored this “Rare” Atomic Watch on eBay (Short)](_page_2025040400-video_short) - 04/04/2025
 - [My First Digital Casio is a DW-290 (Short)](_page_2025040300-video_short) - 04/03/2025
 - [The Casio Forester Couldn’t Have Been More Value For Money (Short)](_page_2025040200-video_short) - 04/02/2025
