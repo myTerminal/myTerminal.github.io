@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I Finally Got My Hands on a CasiOak (Short)](_page_2025040900-video_short) - 04/09/2025
 - [This Casio LA20WH is Cute! (Short)](_page_2025040800-video_short) - 04/08/2025
 - [My First G-Shock is a GW-6900 (Short)](_page_2025040700-video_short) - 04/07/2025
 - [I Scored this “Rare” Atomic Watch on eBay (Short)](_page_2025040400-video_short) - 04/04/2025
