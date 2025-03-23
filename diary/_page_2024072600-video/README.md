@@ -41,7 +41,3 @@ There are a few models that I'm still interested in owning someday, one of which
 ## Conclusion
 
 I'm really grateful to God for blessing me with more computers than I need, but now it's time to lose the extra baggage and send these to people who can put them to good use.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

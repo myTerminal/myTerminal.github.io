@@ -47,7 +47,3 @@ Once it was all taken care of, upgrading the wireless module was just as simple 
 ## Conclusion
 
 So using 1vyrain, I’m now running a slightly better wireless card that the system was never designed to work with. For the rest of the “advanced” features that come with 1vyrain, I’ll probably explore them when time permits. Who knows this might just be the start of a series of upgrades for the X230. Only time will tell.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

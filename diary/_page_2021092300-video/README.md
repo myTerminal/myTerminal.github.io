@@ -280,7 +280,3 @@ So what we just created is a minimal system on which you can build your daily dr
 As I mentioned during the start of the video, this demo was intentionally made short by having a very bare-bones setup but in a practical setup we may have much more configuration, a great example is my own setup that you can see on the Gist I've linked in the description.
 
 My system setup is way more specific, and one of those things is [LUKS](https://guardianproject.info/archive/luks) encryption, which I might as well cover in an upcoming video. It does add a lot of steps to the installation, but the end result is worth it.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

@@ -72,7 +72,3 @@ The last Dell I reviewed became my oldest notebook yet, and this one being from 
 ## Coming Up
 
 I have not configured the machine with any operating system yet, and then we also have to put it next to a few machines and have some fun comparing them. I plan to cover all that fun stuff in the next couple of videos.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

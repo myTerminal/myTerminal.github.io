@@ -71,7 +71,3 @@ Finally, this design doesn’t feel short of reminding you of one of the best an
 ## Conclusion
 
 So, who would believe one could have some of their best computing experiences with their slowest/weakest machine? Nonetheless, there will most likely be some shuffling in my fleet, and this X301 is definitely a keeper. Looking at the X301, the X201 suddenly starts to feel redundant. I mean I know the latter is much more capable in terms of computing power, but if I were to choose one between the two, I’d go with the X301.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

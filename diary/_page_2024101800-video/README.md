@@ -39,7 +39,3 @@ But then, there’s something I call the settling time, after which the required
 ## Conclusion
 
 These machines from the past are almost two decades old, and while there’s still a lot of charm in them, using them for your daily tasks needs some effort. Some of it comes in terms of the programs you run on those, and the rest is all about setting the right expectations in order to enjoy these beauties in the best way you can. These were built for a different time, and one needs to learn how to appreciate them for how they can still be of service today in whatever limited capacity they can be.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

@@ -31,7 +31,3 @@ There are several upgrade options on this workstation. For storage, you can eith
 ## Conclusion
 
 Though I wish there was a little more space for even more powerful components inside, at least with a relatively modern CPU, 32GBs of RAM, a TeraByte of storage space, and now a sufficiently capable discreet GPU, and still plenty of scope for future upgrades, the owner of this machine should have no trouble editing videos on this gorgeous ThinkStation.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

@@ -35,7 +35,3 @@ My choice has clearly evolved drastically over the last two decades, I mean with
 I hope I did not overdo myself about this machine. But given how special this one is for me, I wanted to give it enough coverage and spend enough time to really get a feel. This one will stay with me for a while until I decide to pass it on to someone who can make good use of it, as I’m thankfully covered for my computing needs with my ThinkPads.
 
 Let me know in the comments what other machines you’d suggest I take a closer look at and talk about on this channel. Meanwhile, I have three of them to get back in working order, so I can finally introduce them to you.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

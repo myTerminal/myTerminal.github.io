@@ -50,7 +50,3 @@ After having a complete setup for [my ThinkPad](https://www.lenovo.com/us/en/lap
 ## Up next
 
 As I've kept mentioning that the next one would most probably be [Gentoo](https://www.gentoo.org) and also that I don't have all the time in the world to compile packages on my own, and furthermore learn about it, it isn't Gentoo this time either. You can try your guesses in the comments, but I plan to talk about my choice in the next video anyway, so stay tuned!
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

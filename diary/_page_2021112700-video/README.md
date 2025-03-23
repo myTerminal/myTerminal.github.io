@@ -32,7 +32,3 @@ I'm a hundred percent sure some blessed soul will throw in a comment saying "Go 
 ## My further plans
 
 I've been reading your comments about [BSDs](https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems), so that might as well be a series of adventures away from Linux, but that can wait. Before I step out, I'd love to explore as much as I can over to this side of the wall.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

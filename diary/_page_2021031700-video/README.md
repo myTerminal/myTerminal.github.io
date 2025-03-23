@@ -51,7 +51,3 @@ For most people, this is the best option if you ask me.
 ## Up next
 
 So coming up next, we'll start with a set of tools that we use in our day-to-day computing and that video will hopefully be more interesting and less of a theory lesson, so stay tuned, as the action is just around the corner.
-
-## Outro
-
-That's all that I have for this video, so let me know if you liked it through either the Like/Unlike buttons or through your thoughts, feedback, and ideas in the comments. You can also choose to subscribe to show me your support and encourage me to make more of such videos. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

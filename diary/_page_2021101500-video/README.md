@@ -39,7 +39,3 @@ I do have a couple of minor issues with my current Void setup, one of them is th
 ## Up next
 
 If you ask me about the next steps, I may not have an answer at this point. I might try getting used to the terminal a little more though, trying to reduce my dependencies from [Xserver](https://www.x.org) as you never know when things may change again. Besides, I also have a series to continue, ["Living in the command line"](https://www.youtube.com/playlist?list=PLe6BbPAW-WxjP4mlEv9JkAN9kuphO_Bg9), which never got another video after episode 2. Apart from that, there are a few more interesting videos lined up, so stay tuned!
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

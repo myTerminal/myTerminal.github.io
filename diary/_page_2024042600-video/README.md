@@ -51,7 +51,3 @@ In terms of comparison with its siblings from the X-series, I’ve only had [an 
 ## Conclusion
 
 There are a few other things people do on these machines, which is to flash them with [open source firmware](https://www.coreboot.org/). This takes out proprietary closed-source elements from the machine, and also makes boot times a little quicker. I didn’t do any of that, and nor do I plan to do it in the near future. Regardless, by owning an X220, I’m officially a certified ThinkPad enthusiast.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, ["Free Palestine!"](https://www.aljazeera.com/news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide).

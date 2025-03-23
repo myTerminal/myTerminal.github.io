@@ -57,7 +57,3 @@ With all this taken care of, I still have a lot of data synced through proprieta
 For web bookmarks, I need to decouple them from my Firefox account, just the way I did for my passwords a while back. The same goes for contacts too, and I'd love to be able to host my contacts locally instead of relying on Google services to sync them across my devices.
 
 I have some interesting (and hopefully) feasible plans to get these items offline, so stay tuned to learn what happens in the next couple of months!
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments, and a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

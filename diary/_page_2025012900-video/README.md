@@ -69,7 +69,3 @@ The WiFi card I installed is significantly better than the original but isn’t 
 ## Coming Up
 
 With the software setup out of the way, all that’s left is a comparison with my other similar and popular notebooks. We’ll do just that in the next video.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

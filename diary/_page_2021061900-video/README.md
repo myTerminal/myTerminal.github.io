@@ -111,7 +111,3 @@ The relatively lower priority issues that I talked about can be ironed out one b
 ## Up next
 
 So this has been my experience with Debian till now and having a very similar and close to complete setup with two completely different Linux distributions proves the same thing we already know: there could be multiple ways to solve a problem in Linux. The next one in the series could be [Gentoo](https://www.gentoo.org), but that would be like jumping ahead several years. In the near future, I might jump back to Arch, hopefully when I'll be a little better equipped to deal with issues that I wasn't able to deal with this time. Till then, Debian helps get the job done and in some ways, it gets it done better.
-
-## Outro
-
-That's all that I have for this video, so let me know if you liked it through either the Like/Unlike buttons or through your thoughts, feedback (preferably constructive), and ideas in the comments. You may also subscribe to the channel to show me your support and encourage me to make more of such videos. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

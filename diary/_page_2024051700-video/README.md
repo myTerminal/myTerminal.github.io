@@ -60,7 +60,3 @@ So just the way I’ve switched through [several email providers](https://mailbo
 ## Conclusion
 
 Maybe none of this matters to you, or probably isn’t applicable in your case. Nonetheless, this is just like insurance: having it and not needing it is better than needing it and not having it. Just saying!
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

@@ -56,7 +56,3 @@ And, if Xorg won't work with [Nvidia](https://www.nvidia.com) and even Wayland i
 Speaking of combining two Linux distros, the only thing that comes to my mind is [Bedrock Linux](https://bedrocklinux.org) as that is exactly what it offers. So next up, I'll evaluate Bedrock Linux and play with a few combinations of Linux distros, mostly with one of them being Debian (or [Devuan](https://www.devuan.org)) for those packages that need to be older including core graphical packages, and probably [Void](https://voidlinux.org) for everything else?
 
 Stay tuned for updates, and I hope to get back with a positive result from my research.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

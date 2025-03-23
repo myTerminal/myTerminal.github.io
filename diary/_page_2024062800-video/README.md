@@ -96,7 +96,3 @@ If we were to look in the other direction, which is the newer models, they've be
 ## Conclusion
 
 So yes, not all ThinkPads are the same.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

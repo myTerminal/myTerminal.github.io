@@ -48,7 +48,3 @@ I find it very interesting for how you can dock and undock the machine on this t
 So the ThinkPad X61s might not be the most usable machine today, and there are several reasons to stop me from taking it with me outside. The CPU isn’t capable enough to handle most of what you’d expect from a computer in 2024, and even with that less computing power, the battery consumption is relatively high, so you won’t be able to use it for long away from a charging outlet.
 
 Regardless, with its timeless and compact design, this may be the best-looking ThinkPad I’d ever own.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, ["Free Palestine!"](https://www.aljazeera.com/news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide).

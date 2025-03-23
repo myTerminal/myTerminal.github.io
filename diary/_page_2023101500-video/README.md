@@ -88,7 +88,3 @@ There are several things you can learn from this too:
 Maybe the reasons I mentioned for buying and selling so many computers were mere excuses to get to experience some of the most magnificent machines at a negligible loss. Maybe it was the nerd's itch, or maybe I was finding out what works for me and for my workflow. The good part is that no one got hurt, and it was a win-win, especially for the people who bought those machines back from me, as they received a refurbished machine that was carefully restored, and that too at an affordable price.
 
 And yes, I know that at the end of the day, these are just tools that are to be used to get some actual work done, so there isn’t a reason to get carried away by a tool. But, as they say, “to each his own”.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments, and maybe you can subscribe too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

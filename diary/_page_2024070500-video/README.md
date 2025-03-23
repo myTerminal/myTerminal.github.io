@@ -71,7 +71,3 @@ Finally, there's one thing this tablet has in common with my [X1 Nano](https://w
 ## Conclusion
 
 I've temporarily put my X1 Nano down to the second preferred machine to accompany me everywhere and have planned to take the X1 Tablet with me. But this is a new device, and using the keyboard isn't as straightforward as your regular notebook, such that I cannot use this device on my lap, and need a table to use the keyboard. How it works out, time will tell. So while I work on getting an [X41 Tablet](https://www.thinkwiki.org/wiki/Category:X41_Tablet), this should be sufficient for me to evaluate a tablet as my primary computing companion. Meanwhile, let me figure out how to keep the digitizer in sync when I rotate the device into portrait mode while running Linux
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

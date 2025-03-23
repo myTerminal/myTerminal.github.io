@@ -24,7 +24,3 @@ So the other Chromebooks that I tried earlier were regular Chromebooks. By regul
 ## Conclusion
 
 I'm sure there's more, but these six features already appear to be pretty convincing to me if I were in the market for a Chromebook and was looking for something like a ThinkPad. I'm not sure an audience like that exists, but again, I'm not an expert in Chromebooks, so you tell me!
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

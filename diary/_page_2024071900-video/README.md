@@ -66,7 +66,3 @@ My X220 is still the cleanest-looking example I've seen on the internet. The X23
 2. I've thankfully not faced any noticeable heating issues yet, and hopefully, it should be all fine.
 
 So yes, I had fun using my X220, and it was literally a computing experience I'd remember. Now, I'd like to give the next owner the opportunity to create such memories with this masterpiece.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

@@ -58,7 +58,3 @@ I don't have examples for you here, but we can talk about this in detail in futu
 ## Up next
 
 As per the plan, in the upcoming videos, we'll go through a few areas of computing, one area at a time where we'll not go very deep into details about the tools that we'll discuss, but at least talk about the options we have to be able to perform a particular task through the command line. But before that, the next video will talk about a few options for the kind of setup we can use to experience or practice the tools featured in the following videos.
-
-## Outro
-
-That's all that I have for this video, so let me know if you liked it through either the Like/Unlike buttons or through your thoughts, feedback, and ideas in the comments. You can also choose to subscribe to show me your support and encourage me to make more of such videos. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

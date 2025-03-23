@@ -81,7 +81,3 @@ Personally, [I work with Fish as my default shell](https://github.com/myTerminal
 So, those were the only choices I wanted to talk about in this first video about choices and opinions in Linux. I might have missed a lot of them, so feel free to bring those up in the comments. In fact, newer members of the community may be able to point us to a few choices that the rest of us don't realize.
 
 Also, as I mentioned during the start of this video, we only talked about one-half of the choices I had planned for and the other half will be covered in the next video. It's highly likely that the ones you mention in the comments may already be planned for the next video.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

@@ -279,7 +279,3 @@ Now that we have a minimal Debian system running, there are several possible nex
 ## And that's just a small example
 
 All the steps we went through were pretty basic, partly to keep the video simple and short, and then also because I'm not a hundred percent conversant with *debootstrap* yet except for the few times I've used it till this point. I'm sure the tool allows a lot more, but I leave that as well for you to explore if at all you're interested.
-
-## Outro
-
-That's all that I have for this video, so let me know if you liked it through either the Like/Unlike buttons or through your thoughts, feedback (preferably constructive), and ideas in the comments. You may also subscribe to the channel to show me your support and encourage me to make more of such videos. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

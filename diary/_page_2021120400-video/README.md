@@ -13,7 +13,3 @@ We talked a lot about Linux and my journey with the ThinkPad X1 Extreme. Out of 
 ## Next Year
 
 For the next year, I plan to bring in some fresh content, and along with Linux and Emacs, we may be seeing several videos on some on my open-source projects, a brand new series on computer programming, if everything goes as planned, a few videos about cars, and then who knows what!
-
-## Outro
-
-So that's it for now, and I hope to see you in one of the future videos. Till then, keep learning and keep sharing!

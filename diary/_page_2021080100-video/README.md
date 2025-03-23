@@ -165,7 +165,3 @@ One of the first things you'll notice in the source file would be that I did cut
 I'll keep an eye out for reviews and will hold back writing my second book (spoilers) until I feel that I've learned enough to do it a better way for the next one, especially without the compromises I had to make this time.
 
 This is where you come in. Your reviews will help me in several ways: positive reviews will do the obvious good and negative reviews will help me see my shortcomings and learn from them. Though the book is pretty short, in case you think you don't have the time to read it in full, your honest review will be highly appreciated.
-
-## Outro
-
-That's all that I have for this video, so let me know if you liked it through either the Like/Unlike buttons or through your thoughts, feedback (preferably constructive), and ideas in the comments. You may also subscribe to the channel to show me your support and encourage me to make more of such videos. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

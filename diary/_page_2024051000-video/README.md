@@ -71,7 +71,3 @@ So with all this in place, there are several major changes:
 ## Losses
 
 With this change, I did lose one thing though: the support for Web 3 on my mobile device as neither does the Android Firefox client have it, nor do they have extensions to enable it there. This should be OK for now, as Web 3 isn’t useful to me yet, at least on my mobile device. We can take care of this in the future while I worry about the other more important things.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

@@ -35,7 +35,3 @@ I found license keys for both Windows and Office behind the service panel, so I 
 ## Conclusion
 
 So apparently, ThinkPads aren’t the most maintainable computers, at least were not so during the last decades. But what we’ve seen across manufacturers is that these things are getting closer and closer to your standard smartphone, which has been intentionally designed to be obsolete and replaced as soon as the newer ones are out.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

@@ -43,7 +43,3 @@ I’ve been looking for a compact carry-case for this tiny machine given how mos
 ## Conclusion
 
 So if you could ignore a couple of small nitpicks like the keys not being as deep as your regular ThinkPad, or the keyboard itself compressed to fit the smaller chassis, or having just two USB-C ports, there’s a lot of potential here. An ultra-compact sub-notebook (which is smaller and lighter than the Apple MacBook Air) with a gorgeous screen that is 16:10, and an exceptional battery life, with a reasonably powerful CPU and GPU for its size, paired with a set of four speakers, it all sounds like the next classic ThinkPad to me. Let me know what you think.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, ["Free Palestine!"](https://www.aljazeera.com/news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide).

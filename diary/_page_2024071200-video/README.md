@@ -35,7 +35,3 @@ Now would I be able to carry something like this? I do not know, as it doesn't f
 ## Conclusion
 
 So, the T15g Gen 2 isn't the most exciting ThinkPad ever, but overall, I'm pretty happy with my decision to replace my X1 Extreme with this beast. I convinced myself by believing that I split the X1 Extreme into two machines: a way more premium X1 Nano and a way more powerful T15g, both of which the X1 Extreme attempted to be, but ironically, wasn't really as extreme as these two.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

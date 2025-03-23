@@ -68,7 +68,3 @@ So unlike the title of this video, I'm already over to the other side, or should
 ## Up next
 
 In the upcoming videos, I plan to get into more details about the migration and possibly add another episode to my incomplete series [Back to Linux](https://www.youtube.com/playlist?list=PLe6BbPAW-Wxgz5Jly855Aw3qWRiWqTXHO).
-
-## Outro
-
-That's all that I have for this video, so let me know if you liked it through either the Like/Unlike buttons or through your thoughts, feedback, and ideas in the comments. You may also subscribe to the channel to show me your support and encourage me to make more of such videos. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

@@ -62,7 +62,3 @@ But the restoration had practically just started. Once I knew the machine was us
 So after a close-up experience with an X61, I learned that the differences between the regular model and the "s" variant aren't as big as you'd think. This one does run a tad faster though, due to the processor which isn't the low-power model we have in the X61s. Even then, what you can do with these machines is fairly limited. Nonetheless, these are indeed time capsules that someone like me can use to relive a time that they never knew existed.
 
 Given the similarity with my X61s, I do not intend to keep it for long but instead, look for a new home where this machine can be back in service for years to come.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

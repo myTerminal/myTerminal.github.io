@@ -60,7 +60,3 @@ Now we know how older ThinkPads could sometimes (if not always) be limiting. New
 ## Conclusion
 
 So the conclusion isn't a simple one. Our machines have lost a lot of capabilities and features, and most of them help us achieve something in exchange. Whether or not it helps you may depend from person to person. Don't get me wrong, as I still like my barely capable X61s and the relatively outdated X220, but on the other hand, I also enjoy working on my X1 Nano, which is probably my best overall ThinkPad yet.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

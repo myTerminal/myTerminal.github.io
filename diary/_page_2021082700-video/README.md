@@ -71,7 +71,3 @@ As I said, most of it has already been figured out and even tested on virtual ma
 ## Up next
 
 So you'd ask, what's next? I might make a video on [installing a minimal Void system using the `chroot` method](https://docs.voidlinux.org/installation/guides/chroot.html), keep an eye out for issues and then eventually add another video to my series ["Back to Linux"](https://www.youtube.com/playlist?list=PLe6BbPAW-Wxgz5Jly855Aw3qWRiWqTXHO) to close it all.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

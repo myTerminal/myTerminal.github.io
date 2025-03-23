@@ -75,8 +75,3 @@ One thing to note is that these choices not only give us the freedom to choose w
 ## Up next
 
 The list isn't conclusive and I might definitely come across more opinions and choices as I continue to learn more about Linux every day. Once I have enough items to talk about, I might plan another video in continuation to this one in the future.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!
-

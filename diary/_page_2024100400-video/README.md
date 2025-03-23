@@ -35,7 +35,3 @@ Now what module would I be installing next was onto me, and the range of choices
 ## Conclusion
 
 After putting everything back together, the machine worked like a charm with no issues. The machine does seem to be running a little less warm, getting slightly (if not much) better reception, and also running faster, which might as well be due to the placebo effect. But yes, less power-draw means less heat, and effectively letting the machine run slightly faster. I do not have numbers to back my findings, but I’m happy that my X61s now runs better than it used to. 
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, "Free Palestine!".

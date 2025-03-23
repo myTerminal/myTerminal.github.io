@@ -53,7 +53,3 @@ To summarize, this machine isn’t a modern workstation notebook, but surprising
 ## Conclusion
 
 With all that, I still find the W530 very “confidence-inspiring”, and makes everything do you on your computer feel nothing less than legendary.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video! And yes, ["Free Palestine!"](https://www.aljazeera.com/news/2023/10/9/whats-the-israel-palestine-conflict-about-a-simple-guide).

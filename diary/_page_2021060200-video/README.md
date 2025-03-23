@@ -109,7 +109,3 @@ I've linked [my Gist](https://gist.github.com/myTerminal/4f1d26eaf32cdc5bcc9fb19
 ## Up next
 
 So like I said during the start of this video, this one was only about the issues, hurdles, and learnings during the installation. As per the plan, the immediate successor to this will be a new episode in my series [Back to Linux](https://www.youtube.com/playlist?list=PLe6BbPAW-Wxgz5Jly855Aw3qWRiWqTXHO), where I'll talk about the outstanding gaps and issues post the move to Debian.
-
-## Outro
-
-That's all that I have for this video, so let me know if you liked it through either the Like/Unlike buttons or through your thoughts, feedback (preferably constructive), and ideas in the comments. You may also subscribe to the channel to show me your support and encourage me to make more of such videos. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

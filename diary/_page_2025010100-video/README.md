@@ -110,7 +110,3 @@ The ThinkPad X61s on the other hand has a cover latch, way slimmer screen bezels
 So overall, I found the Dell XPS M1210 to be a great little machine, and to be frank, way more usable than my slightly newer ThinkPad X61s. Now don’t get me wrong for saying this, but I still prefer the X61s over the XPS. I mean I’m sure there’s an audience for this kind of a product, but that’s probably not me. I think after spending these last couple of years working solely with ThinkPads, I may have gone too far in that direction and gotten used to those black notebooks “that all look the same”. This entire series of episodes with this machine also reminded me how much I’ve become attached to the TrackPoint, something that I didn’t even use on my first couple of ThinkPads. It grew on me very gradually, ending up becoming something that I find very hard to live without, on a notebook.
 
 As it goes with the XPS, there probably isn’t a single example of these in such a great condition, especially with the kind of love and treatment it received from its last owner and myself, let alone for a cheaper price.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

@@ -60,7 +60,3 @@ With that out of the way, let me run through the restoration process, much of wh
 ## Conclusion
 
 I had been staying away from the X201 with disbelief that these machines were outdated, similar to how I thought about the X220, but since I tried an X220, and then an [X61s](https://www.thinkwiki.org/wiki/Category:X61s), things haven't been the same for me. It's like gaining a new skill, which in this case is being able to appreciate older technology. Though I'd consider the X230 much more practical for 2024, there's one thing that I can say about this X201, and that is, I won't miss my X220 anymore.
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".

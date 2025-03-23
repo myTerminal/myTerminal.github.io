@@ -41,7 +41,3 @@ The other side of the wrong decision, especially the one involving Nvidia, has b
 As I've mentioned in my last video, I now have a software setup that's better than anything I've ever had. This not only includes the Linux distro that I'm running, but also my [dotfiles](https://github.com/myTerminal/dotfiles), which keeps getting better as we speak.
 
 My plan is to keep improving it (while also using it to get some work done, of course), and share my learning on this channel in form of future videos. If you have anything particular in mind that you think I can create a video on, please let me know in the comments.
-
-## Outro
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!

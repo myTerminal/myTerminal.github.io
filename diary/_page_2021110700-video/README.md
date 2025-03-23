@@ -59,11 +59,3 @@ My Mass Effect licenses remained on the PC platform, which was pretty much limit
 So it's been several years since my last two play-throughs and things have changed, there are more things to spend time on now, but I still wish to be able to play the trilogy one more (and probably the last) time, relive those memories, and probably also have a few super-emotional moments just like the old times.
 
 I know it's way harder than it seems, given how many titles I've left in between, which includes my multiple attempts at very good titles like [Horizon: Zero Dawn](https://www.playstation.com/en-us/games/horizon-zero-dawn), [Fallout 4](https://fallout.bethesda.net/en/games/fallout-4), [Red Dead Redemption 2](https://www.rockstargames.com/reddeadredemption2), and many more. Maybe I would take over a year to complete the trilogy again, if, at all I could, only the time will tell.
-
-## Outro
-
-I know this video is way different than my other videos, but as I always say:
-
-That's all that I have for this video, and if you found it helpful, you know what to do. Just be a little kind in the comments. As always, a subscribe will be helpful too. Thanks for watching it till the end, may the maker watch over you, see you in the next video!
-
-And yes, "I should go!".

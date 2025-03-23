@@ -62,7 +62,3 @@ When comparing machines like these, choosing one out of the group is difficult. 
 ## Conclusion
 
 Every time you pick up one out of these three or rather six designs, the machine you're holding doesn't fall short in making you believe that you're indeed looking at "that peak X-series ThinkPad". Many believe that the X220 or X230 was the peak, which is mosly in terms of carrying the best things we like about older ThinkPads while still being usable after over a decade. The X60 and X61 remind us of a design language that will least likely ever return with those narrow bezels and small form factor that can often be considered way too modern even by today's standards after almost two decades. Finally, looking at the X200 and X201, you'd think that the peak was right there, with a perfect balance between the other two designs merged into a stylish and lightweight chassis to create a product that feels better built than either. May be they're all peak design, and may be none of those are. This also depends on what your definition of peak design is, or what you expect from a machine, more so from a ThinkPad.
-
-## Outro
-
-That's all I have for this video and thanks for watching it to the end. May the maker watch over you. See you in the next video! And yes, "Free Palestine!".
