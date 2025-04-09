@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Rating My Watch Collection](_page_2025042800-video) - 04/28/2025
 - [I Discovered Something About the Straps on the GW-500A (Short)](_page_2025042500-video_short) - 04/25/2025
 - [Cleaning this Filthy G-Shock GW-6900 was Quick and Easy! (Short)](_page_2025042400-video_short) - 04/24/2025
 - [G-Shock AWG-M100A (Short)](_page_2025042300-video_short) - 04/23/2025
