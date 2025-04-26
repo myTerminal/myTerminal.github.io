@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Stepping Up Into Master of G](_page_2025050100) - 05/01/2025
 - [Downsizing My Watch Collection](_page_2025043000-video) - 04/30/2025
 - [Rating My Watch Collection](_page_2025042800-video) - 04/28/2025
 - [I Discovered Something About the Straps on the GW-500A (Short)](_page_2025042500-video_short) - 04/25/2025
