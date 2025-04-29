@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My First GravityMaster: G-Shock GA-1100-9G](_page_2025051300-video_short) - 05/13/2025
 - [I’m Having Trouble Getting into MTG or MRG](_page_2025051200-video_short) - 05/12/2025
 - [Syncing Analog and Digital Time on G-Shocks](_page_2025050900-video_short) - 05/09/2025
 - [G-Shock GA-150 is Different than I Thought!](_page_2025050800-video_short) - 05/08/2025
