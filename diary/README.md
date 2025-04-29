@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Giving the GW-9300 a “Facelift”](_page_2025050700-video_short) - 05/07/2025
 - [G-Shock Mudman G-9300 vs GW-9300](_page_2025050600-video_short) - 05/06/2025
 - [G-Shock Mudman G-9300](_page_2025050500-video_short) - 05/05/2025
 - [I Finally Entered the Master of G Collection](_page_2025050200-video_short) - 05/02/2025
