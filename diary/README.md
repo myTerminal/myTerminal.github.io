@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [G-Shock Mudman G-9300 vs GW-9300](_page_2025050600-video_short) - 05/06/2025
 - [G-Shock Mudman G-9300](_page_2025050500-video_short) - 05/05/2025
 - [I Finally Entered the Master of G Collection](_page_2025050200-video_short) - 05/02/2025
 - [Stepping Up Into Master of G](_page_2025050100) - 05/01/2025
