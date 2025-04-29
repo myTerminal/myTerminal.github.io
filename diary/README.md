@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I’m Having Trouble Getting into MTG or MRG](_page_2025051200-video_short) - 05/12/2025
 - [Syncing Analog and Digital Time on G-Shocks](_page_2025050900-video_short) - 05/09/2025
 - [G-Shock GA-150 is Different than I Thought!](_page_2025050800-video_short) - 05/08/2025
 - [Giving the GW-9300 a “Facelift”](_page_2025050700-video_short) - 05/07/2025
