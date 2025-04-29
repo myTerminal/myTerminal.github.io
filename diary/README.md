@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My Current G-Shock (and Casio) Collection is Perfect (For Me)!](_page_2025051900-video_short) - 05/19/2025
 - [My Ideal G-Shock](_page_2025051600-video_short) - 05/16/2025
 - [My Approach Towards G-Shocks has Changed Drastically](_page_2025051500-video_short) - 05/15/2025
 - [My First MudMaster: G-Shock GWG-2000](_page_2025051400-video_short) - 05/14/2025
