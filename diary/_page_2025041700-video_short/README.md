@@ -2,7 +2,7 @@
 
 > This article is a transcript of a video that you can watch by clicking the thumbnail below. Hence, certain statements may not make sense in this text form, and watching the video instead is recommended.
 
-[![https://i.ytimg.com/k8a1NnpO5GI/hq720.jpg](https://i.ytimg.com/k8a1NnpO5GI/hq720.jpg)](https://youtu.be/k8a1NnpO5GI)
+[![https://i.ytimg.com/vi/k8a1NnpO5GI/hq720.jpg](https://i.ytimg.com/vi/k8a1NnpO5GI/hq720.jpg)](https://youtu.be/k8a1NnpO5GI)
 
 ## Transcript
 
