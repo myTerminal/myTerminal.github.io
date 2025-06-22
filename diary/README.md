@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I Took My ThinkPad T440p on a Trip](_page_2025062100-video_short) - 06/21/2025
 - [ThinkPad T440p is My New (Bulky) Travel Companion](_page_2025061800-video) - 06/18/2025
 - [I’ve Changed The Way I Look at my ThinkPad Fleet](_page_2025060900-video_short) - 06/09/2025
 - [I Tried Booting from mSATA on the X230](_page_2025060700-video_short) - 06/07/2025
