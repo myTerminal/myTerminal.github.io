@@ -1,6 +1,6 @@
 ## Summary
 
-With over fifteen years in software, my career is a blend of passion and expertise. Since beginning in the early 2000s, I’ve worked across a variety of platforms, tech stacks, and disciplines, spending the past decade dedicated to building dynamic web experiences with a focus on front-end technologies.
+With almost sixteen years in software, my career is a blend of passion and expertise. Since beginning in the early 2000s, I’ve worked across a variety of platforms, tech stacks, and disciplines, spending the past decade dedicated to building dynamic web experiences with a focus on front-end technologies.
 
 My approach to technology is fueled by curiosity, a forward-looking perspective, and a dedication to constant improvement. These qualities empower me to tackle challenges both within and beyond my primary expertise. I’m also deeply committed to mentoring and sharing knowledge, aiming to inspire both my team and the broader professional community.
 
