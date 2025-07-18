@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Improved Way of Connecting to My AI Server](_page_2025071800-video_short) - 07/18/2025
 - [I Built an AI Server from E-Waste](_page_2025062800-video) - 06/28/2026
 - [ThinkPad X13 Gen 3 Next to Classic X-Series ThinkPads](_page_2025062500-video_short) - 06/25/2025
 - [Is this ThinkPad X13 Gen 3 Better Than My X1 Nano?](_page_2025062300-video_short) - 06/23/2025
