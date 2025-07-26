@@ -2,7 +2,8 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
-- [Why Do I Buy Old ThinkPads, Again?](_page_2025072300-video_short) - 7/23/2025
+- [More on Buying Old ThinkPads...](_page_2025072800-video_short) - 07/28/2025
+- [Why Do I Buy Old ThinkPads, Again?](_page_2025072300-video_short) - 07/23/2025
 - [A Few Negatives of Owning a Classic ThinkPad](_page_2025072100-video_short) - 07/21/2025
 - [Upgrading the Storage on My Dell Precision T3600](_page_2025071900-video_short) - 07/19/2025
 - [Improved Way of Connecting to My AI Server](_page_2025071800-video_short) - 07/18/2025
