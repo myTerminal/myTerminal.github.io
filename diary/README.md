@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Why Your PC Will Eventually Die](_page_2025073000-video_short) - 07/30/2025
 - [More on Buying Old ThinkPads...](_page_2025072800-video_short) - 07/28/2025
 - [Why Do I Buy Old ThinkPads, Again?](_page_2025072300-video_short) - 07/23/2025
 - [A Few Negatives of Owning a Classic ThinkPad](_page_2025072100-video_short) - 07/21/2025
