@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My Thoughts on Automatic Watches](_page_2025091500-video_short) - 09/15/2025
 - [My Second Diver is Not a Seiko Either](_page_2025091200-video_short) - 09/12/2025
 - [My First Diver is Not a Seiko](_page_2025090800-video_short) - 09/08/2025
 - [I'm Getting Pulled into Homage Watches](_page_2025090500-video_short) - 09/05/2025
