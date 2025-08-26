@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Why I May Stay Away from Kinetic Watches, For Now](_page_2025092200-video_short) - 09/22/2025
 - [So Many Kinds of Movements in Watches!](_page_2025091900-video_short) - 09/19/2025
 - [My Thoughts on Automatic Watches](_page_2025091500-video_short) - 09/15/2025
 - [My Second Diver is Not a Seiko Either](_page_2025091200-video_short) - 09/12/2025
