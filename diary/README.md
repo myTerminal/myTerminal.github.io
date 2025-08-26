@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Can You Hack a Wristwatch?](_page_2025100300-video_short) - 10/03/2025
 - [Looking Back at my G-Shocks after using Automatic Watches](_page_2025092900-video_short) - 09/29/2025
 - [I Prepared My Automatics for Daily Use](_page_2025092600-video_short) - 09/25/2025
 - [Why I May Stay Away from Kinetic Watches, For Now](_page_2025092200-video_short) - 09/22/2025
