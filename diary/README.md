@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I'm Getting Pulled into Homage Watches](_page_2025090500-video_short) - 09/05/2025
 - [My First Automatic Watch is an Amazing Value for Money!](_page_2025090100-video_short) - 09/01/2025
 - [Why Your PC Will Eventually Die](_page_2025073000-video_short) - 07/30/2025
 - [More on Buying Old ThinkPads...](_page_2025072800-video_short) - 07/28/2025
