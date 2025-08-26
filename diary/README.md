@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My First Diver is Not a Seiko](_page_2025090800-video_short) - 09/08/2025
 - [I'm Getting Pulled into Homage Watches](_page_2025090500-video_short) - 09/05/2025
 - [My First Automatic Watch is an Amazing Value for Money!](_page_2025090100-video_short) - 09/01/2025
 - [Why Your PC Will Eventually Die](_page_2025073000-video_short) - 07/30/2025
