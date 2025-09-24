@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Making Dates Change Only at Midnight](_page_2025101000-video_short) - 10/10/2025
 - [Taking Care of Automatic Watches](_page_2025100600-video_short) - 10/06/2025
 - [Can You Hack a Wristwatch?](_page_2025100300-video_short) - 10/03/2025
 - [Looking Back at my G-Shocks after using Automatic Watches](_page_2025092900-video_short) - 09/29/2025
