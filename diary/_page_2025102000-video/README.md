@@ -57,6 +57,6 @@ My current collection (which is still shifting, BTW) covers analog watches, digi
 One good part about it is that I do not need to charge my watch as often, depending on the watch we’re talking about. The solar watches take care of themselves with occasional exposure to light, the automatics self-wind as soon as I pick them up, and the rest of them would work for years to come before needing a battery replacement.
 Next up would be to trim my collection down to what I’d absolutely need, passing on the others to folks who will be able to appreciate them more than I do. I know how difficult a task this can be, as I have a similar problem with my ThinkPad fleet.
 
-### Conclusion
+## Conclusion
 
 So, that was some of what I learned during the last few months. Not only could I draw parallels with the world of computing, automobiles, and other gadgets, I could also finally learn and realize what works for me, and what doesn’t, and that too with personal experience. I can never be grateful enough for this journey.
