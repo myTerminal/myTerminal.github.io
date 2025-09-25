@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My Mudman Meets an Ancestor: G-Shock G-9000](_page_2025101700-video_short) - 10/17/2025
 - [One More G-Shock: G-Shock G-7700](_page_2025101300-video_short) - 10/13/2025
 - [Making Dates Change Only at Midnight](_page_2025101000-video_short) - 10/10/2025
 - [Taking Care of Automatic Watches](_page_2025100600-video_short) - 10/06/2025
