@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [What I Learned After Buying 44 Wristwatches](_page_2025102000-video) - 10/20/2025
 - [My Mudman Meets an Ancestor: G-Shock G-9000](_page_2025101700-video_short) - 10/17/2025
 - [One More G-Shock: G-Shock G-7700](_page_2025101300-video_short) - 10/13/2025
 - [Making Dates Change Only at Midnight](_page_2025101000-video_short) - 10/10/2025
