@@ -2,7 +2,7 @@
 
 > This article is a transcript of a video that you can watch by clicking the thumbnail below. Hence, certain statements may not make sense in this text form, and watching the video instead is recommended.
 
-[![https://i.ytimg.com/vi/jeta7WkjglI/hq720.jpg](https://i.ytimg.com/vi/jeta7WkjglI/hq720.jpg)](https://youtu.be/jeta7WkjglI)
+[![https://i.ytimg.com/vi/-Vbdn2ZVudg/hq720.jpg](https://i.ytimg.com/vi/-Vbdn2ZVudg/hq720.jpg)](https://youtu.be/-Vbdn2ZVudg)
 
 ## Intro
 
@@ -10,7 +10,7 @@ Can this Notebook possibly replace my [ThinkPads](https://www.lenovo.com/us/en/c
 
 ## Why an e-reader?
 
-I’ve used this [7” Samsung Galaxy Tab](https://i.ytimg.com/vi/jeta7WkjglI/hq720.jpg) as my daily driver mobile phone back in 2012, and this device isn’t a great fit for this use case, and for a bunch of reasons. To mention a few, for a 13-year-old device, the battery is doing OK, but it still runs down pretty quickly, the screen isn’t that big, neither in terms of the physical dimensions, nor the screen resolution, and like all other older mobile devices, this thing has lost much of its software support and runs pretty slow, even on a de-bloated aftermarket Android ROM.
+I’ve used this [7” Samsung Galaxy Tab](https://en.wikipedia.org/wiki/Samsung_Galaxy_Tab_2_7.0) as my daily driver mobile phone back in 2012, and this device isn’t a great fit for this use case, and for a bunch of reasons. To mention a few, for a 13-year-old device, the battery is doing OK, but it still runs down pretty quickly, the screen isn’t that big, neither in terms of the physical dimensions, nor the screen resolution, and like all other older mobile devices, this thing has lost much of its software support and runs pretty slow, even on a de-bloated aftermarket Android ROM.
 
 The [ThinkPad X1 Nano](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-nano/22tp2x1x1n1), although it still amuses me with its dimensions and weight, is too large to be carried as an e-reader.
 
