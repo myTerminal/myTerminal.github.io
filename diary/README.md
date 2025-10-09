@@ -7,6 +7,7 @@
 - [My Mudman Meets an Ancestor: G-Shock G-9000](pages/_page_2025101700-video_short) - 10/17/2025
 - [One More G-Shock: G-Shock G-7700](pages/_page_2025101300-video_short) - 10/13/2025
 - [Making Dates Change Only at Midnight](pages/_page_2025101000-video_short) - 10/10/2025
+- [Adding a New Tool to My Toolset](pages/_page_2025100800) - 10/08/2025
 - [Taking Care of Automatic Watches](pages/_page_2025100600-video_short) - 10/06/2025
 - [Can You Hack a Wristwatch?](pages/_page_2025100300-video_short) - 10/03/2025
 - [Looking Back at my G-Shocks after using Automatic Watches](pages/_page_2025092900-video_short) - 09/29/2025
