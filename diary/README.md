@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My Failed Adventures with Cell Phones](pages/_page_2025102601-video) - 10/26/2025
 - [Addiesdive Turtle White AD2117 has Some Personality](pages/_page_2025102600-video_short) - 10/26/2025
 - [Can This Notebook Replace My ThinkPads (Kobo Libra Color)](pages/_page_2025102400-video) - 10/24/2025
 - [What I Learned After Buying 44 Wristwatches](pages/_page_2025102000-video) - 10/20/2025
