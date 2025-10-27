@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Setting Up the UniHertz Titan 2](pages/_page_2025102800-video) - 10/28/2025
 - [I'm (Almost) Returning to BlackBerry](pages/_page_2025102700-video) - 10/27/2025
 - [My Failed Adventures with Cell Phones](pages/_page_2025102601-video) - 10/26/2025
 - [Addiesdive Turtle White AD2117 has Some Personality](pages/_page_2025102600-video_short) - 10/26/2025
