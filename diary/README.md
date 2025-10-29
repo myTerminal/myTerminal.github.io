@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [10 Tips, Tricks, & Quirks with the UniHertz Titan 2](pages/_page_2025102900-video_short) - 10/29/2025
 - [The UniHertz Titan 2 is Truly a Dream Come True](pages/_page_2025102801-video) - 10/28/2025
 - [Setting Up the UniHertz Titan 2](pages/_page_2025102800-video) - 10/28/2025
 - [I'm (Almost) Returning to BlackBerry](pages/_page_2025102700-video) - 10/27/2025
