@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [12 More Features, Quirks, and Nitpicks with the UniHertz Titan 2](pages/_page_2025103101-video_short) - 10/31/2025
 - [Preparing this ThinkPad T430 for a New Home Was Easy!](pages/_page_2025103100-video_short) - 10/31/2025
 - [10 Tips, Tricks, & Quirks with the UniHertz Titan 2](pages/_page_2025102900-video_short) - 10/29/2025
 - [The UniHertz Titan 2 is Truly a Dream Come True](pages/_page_2025102801-video) - 10/28/2025
