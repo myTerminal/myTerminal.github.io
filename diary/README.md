@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Can a Toughbook be My Go-To Travel Notebook?](pages/_page_2025110700-video) - 11/07/2025
 - [Playing Around with the Secondary Screen on the UniHertz Titan 2](pages/_page_2025110500-video_short) - 11/05/2025
 - [These Keyboard Gestures Continue to Fascinate Me!](pages/_page_2025110100-video_short) - 11/01/2025
 - [12 More Features, Quirks, and Nitpicks with the UniHertz Titan 2](pages/_page_2025103101-video_short) - 10/31/2025
