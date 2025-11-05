@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [Playing Around with the Secondary Screen on the UniHertz Titan 2](pages/_page_2025110500-video_short) - 11/05/2025
 - [These Keyboard Gestures Continue to Fascinate Me!](pages/_page_2025110100-video_short) - 11/01/2025
 - [12 More Features, Quirks, and Nitpicks with the UniHertz Titan 2](pages/_page_2025103101-video_short) - 10/31/2025
 - [Preparing this ThinkPad T430 for a New Home Was Easy!](pages/_page_2025103100-video_short) - 10/31/2025
