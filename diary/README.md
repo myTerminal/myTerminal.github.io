@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I'm Letting the X230 Go...](pages/_page_2025111000-video) - 11/10/2025
 - [Can a Toughbook be My Go-To Travel Notebook?](pages/_page_2025110700-video) - 11/07/2025
 - [Playing Around with the Secondary Screen on the UniHertz Titan 2](pages/_page_2025110500-video_short) - 11/05/2025
 - [These Keyboard Gestures Continue to Fascinate Me!](pages/_page_2025110100-video_short) - 11/01/2025
