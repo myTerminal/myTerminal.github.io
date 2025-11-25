@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I Tried Running Linux on the Toughbook CF-20, feat. A Massive Revelation!](pages/_page_2025112500-video) - 11/25/2025
 - [I Bought into the Hype of CachyOS](pages/_page_2025111700-video) - 11/17/2025
 - [I'm Letting the X230 Go...](pages/_page_2025111000-video) - 11/10/2025
 - [Can a Toughbook be My Go-To Travel Notebook?](pages/_page_2025110700-video) - 11/07/2025
