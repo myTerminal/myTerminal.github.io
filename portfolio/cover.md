@@ -1,12 +1,12 @@
 ## Summary
 
-With almost sixteen years in software, my career is a blend of passion and expertise. Since beginning in the early 2000s, I’ve worked across a variety of platforms, tech stacks, and disciplines, spending the past decade dedicated to building dynamic web experiences with a focus on front-end technologies.
+With over sixteen years in software, my career is a blend of passion and expertise. Since beginning in the early 2000s, I've worked across a variety of platforms, tech stacks, and disciplines, spending the past decade dedicated to building dynamic web experiences with a focus on front-end technologies.
 
-My approach to technology is fueled by curiosity, a forward-looking perspective, and a dedication to constant improvement. These qualities empower me to tackle challenges both within and beyond my primary expertise. I’m also deeply committed to mentoring and sharing knowledge, aiming to inspire both my team and the broader professional community.
+My approach to technology is fueled by curiosity, a forward-looking perspective, and a dedication to constant improvement. These qualities empower me to tackle challenges both within and beyond my primary expertise. I'm also deeply committed to mentoring and sharing knowledge, aiming to inspire both my team and the broader professional community.
 
 ## Being a Technology Enthusiast
 
-For me, working with computers is more than just a job—it’s a genuine passion that extends beyond the office. My interest spans both software and hardware, leading me to regularly contribute to open-source projects and participate in online developer communities. I love experimenting with all kinds of machines, not just computers, enjoying the exploration and tinkering process.
+For me, working with computers is more than just a job and rather, it's a genuine passion that extends beyond the office. My interest spans both software and hardware, leading me to regularly contribute to open-source projects and participate in online developer communities. I love experimenting with all kinds of machines, not just computers, enjoying the exploration and tinkering process.
 
 ## Hobbies & Personal Life
 
