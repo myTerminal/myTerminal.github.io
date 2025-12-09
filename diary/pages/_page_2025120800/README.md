@@ -130,7 +130,3 @@ If at all this could have worked, I had planned for a Middleton BIOS upgrade, a 
 ## Conclusion
 
 Just like my ThinkPad X61s, this X61 Tablet we have here isn't the most practical notebook computer/tablet for today's computing. However, it reminds me of my i-mate JasJar from back in the day, as that device had a similar convertible form factor with a swivel hinge, back when a 3.6” screen was considered huge. Also, this machine in a way makes me appreciate the refinement future designs went through to create the modern 2-in-1 Yoga's we have today. I wish I could have been able to add it to my fleet.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video!
