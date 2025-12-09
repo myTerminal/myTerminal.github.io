@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [My X61 Tablet Build Was a Disaster!](pages/_page_2025120800) - 12/08/2025
 - [I Tried Running Linux on the Toughbook CF-20, feat. A Massive Revelation!](pages/_page_2025112500-video) - 11/25/2025
 - [I Bought into the Hype of CachyOS](pages/_page_2025111700-video) - 11/17/2025
 - [I'm Letting the X230 Go...](pages/_page_2025111000-video) - 11/10/2025
