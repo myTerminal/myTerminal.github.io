@@ -1,4 +1,4 @@
-# Wristwatches #Steeldive #ShortsI Finally Picked up a #Seiko Monster (Homage) #Wristwatches #Steeldive #Shorts
+# I Finally Picked up a #Seiko Monster (Homage) #Wristwatches #Steeldive #Shorts
 
 > This article is a transcript of a video that you can watch by clicking the thumbnail below. Hence, certain statements may not make sense in this text form, and watching the video instead is recommended.
 
