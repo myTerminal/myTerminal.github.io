@@ -2,6 +2,7 @@
 
 ## Phase 6: Turning Towards Wristwatches
 
+- [I Upgraded My CasiOak (Casio G-Shock GA-2110)](pages/_page_2025121600-video_short) - 12/16/2025
 - [I Finally Picked up a Seiko Monster (Homage)](pages/_page_2025121200-video_short) - 12/12/2025
 - [My X61 Tablet Build Was a Disaster!](pages/_page_2025120800) - 12/08/2025
 - [I Tried Running Linux on the Toughbook CF-20, feat. A Massive Revelation!](pages/_page_2025112500-video) - 11/25/2025
