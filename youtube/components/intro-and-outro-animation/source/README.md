@@ -1,1 +1,0 @@
-# Intro and Outro animation
