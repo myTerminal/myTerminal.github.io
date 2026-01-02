@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I Installed macOS on my ThinkPad T440p](pages/_page_2026010700-video_short) - 01/07/2026
 - [Diagnosing a Black Screen Issue with my ThinkPad T440p](pages/_page_2026010500-video_short) - 01/05/2026
 
 ## Phase 6: Turning Towards Wristwatches
