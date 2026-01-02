@@ -2,7 +2,7 @@
 
 ## Phase 7: Back to Form
 
-- [I Unlocked My ThinkPad T440p for More Power](pages/_page_2026010900-video_short) - 01/09/2026
+- [I Unlocked My ThinkPad T440p for More Power](pages/_page_2026010900-video) - 01/09/2026
 - [I Installed macOS on my ThinkPad T440p](pages/_page_2026010700-video_short) - 01/07/2026
 - [Diagnosing a Black Screen Issue with my ThinkPad T440p](pages/_page_2026010500-video_short) - 01/05/2026
 
