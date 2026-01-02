@@ -1,5 +1,9 @@
 # Diary
 
+## Phase 7: Back to Form
+
+- [Diagnosing a Black Screen Issue with my ThinkPad T440p](pages/_page_2026010500-video_short) - 01/05/2026
+
 ## Phase 6: Turning Towards Wristwatches
 
 - [Thank You, and Stay Tuned!](pages/_page_2025122200-video) - 12/22/2025
