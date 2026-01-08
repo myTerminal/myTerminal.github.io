@@ -2,7 +2,7 @@
 
 ## Phase 7: Back to Form
 
-- [I Built a ThinkPad T61 That Doesn't Exist](pages/pages/_page_2026011600-video) - 01/16/2025
+- [I Built a ThinkPad T61 That Doesn't Exist](pages/_page_2026011600-video) - 01/16/2025
 - [I'm Revisiting the ThinkPad T61](pages/_page_2026011200-video_short) - 01/12/2026
 - [I Unlocked My ThinkPad T440p for More Power](pages/_page_2026010900-video) - 01/09/2026
 - [I Installed macOS on my ThinkPad T440p](pages/_page_2026010700-video_short) - 01/07/2026
