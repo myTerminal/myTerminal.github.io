@@ -4,6 +4,7 @@ ThinkPad X1 Extreme Gen 3
 ThinkPad T440p
 ThinkPad X301
 ThinkPad X61s
+ThinkPad T60
 ThinkPad X1 Carbon Gen 7
 ThinkPad X1 Tablet Gen 3
 ThinkPad X1 Yoga Gen 3
