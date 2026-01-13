@@ -58,7 +58,7 @@ After everything was ready, I thought I’d give it a spin with a live Linux env
 
 I finally gave it the honor of joining my fleet with Void Linux. I left a hundred GB at the end of the drive for use with other operating systems in the future. And yes, I also fixed the CMOS error between battery changes by replacing the battery.
 
-### Comparisons and Conclusion
+## Comparisons and Conclusion
 
 So, that was something, but at least I finally have a machine I wanted to build, and the result is more than worth it.
 
