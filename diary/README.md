@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [Running Windows XP Like It's 2006](pages/_page_2026013000-video) - 01/30/2026
 - [Screen Resolution, Display Scaling, and CPU/GPU Overhead](pages/_page_2026012600-video_short) - 01/26/2026
 - [The T60 is My First IBM ThinkPad](pages/_page_2026012300-video) - 01/23/2026
 - [This Chronos Water Ghost is Like Several Watches in One](pages/_page_2026011900-video_short) - 01/19/2026
