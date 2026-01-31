@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [The ThinkPad T60 Took Me Back to My Childhood](pages/_page_2026020900-video_short) - 02/09/2026
 - [Fixing WiFi Issues on my ThinkPad T60](pages/_page_2026020600-video_short) - 02/06/2026
 - [I Learned About How Batteries Can Be Deceptive](pages/_page_2026020200-video_short) - 02/02/2026
 - [Running Windows XP Like It's 2006](pages/_page_2026013000-video) - 01/30/2026
