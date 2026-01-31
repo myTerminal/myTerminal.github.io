@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I Learned About How Batteries Can Be Deceptive](pages/_page_2026020200-video_short) - 02/02/2026
 - [Running Windows XP Like It's 2006](pages/_page_2026013000-video) - 01/30/2026
 - [Screen Resolution, Display Scaling, and CPU/GPU Overhead](pages/_page_2026012600-video_short) - 01/26/2026
 - [The T60 is My First IBM ThinkPad](pages/_page_2026012300-video) - 01/23/2026
