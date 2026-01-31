@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [Fixing WiFi Issues on my ThinkPad T60](pages/_page_2026020600-video_short) - 02/06/2026
 - [I Learned About How Batteries Can Be Deceptive](pages/_page_2026020200-video_short) - 02/02/2026
 - [Running Windows XP Like It's 2006](pages/_page_2026013000-video) - 01/30/2026
 - [Screen Resolution, Display Scaling, and CPU/GPU Overhead](pages/_page_2026012600-video_short) - 01/26/2026
