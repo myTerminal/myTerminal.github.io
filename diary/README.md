@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [What I Learned after Buying Fifty ThinkPads (and My Updated List of Excuses for Buying More)](pages/_page_2026021600-video_short) - 02/16/2026
 - [Restoring the ThinkPad T61 with Windows XP](pages/_page_2026021300-video_short) - 02/13/2026
 - [The ThinkPad T60 Took Me Back to My Childhood](pages/_page_2026020900-video_short) - 02/09/2026
 - [Fixing WiFi Issues on my ThinkPad T60](pages/_page_2026020600-video_short) - 02/06/2026
