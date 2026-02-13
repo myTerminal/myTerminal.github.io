@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I Switched to Logseq as My Second Brain (Short)](pages/_page_2026022000-video_short) - 02/20/2026
 - [I Switched to Logseq as My Second Brain](pages/_page_2026021800) - 02/18/2026
 - [What I Learned after Buying Fifty ThinkPads (and My Updated List of Excuses for Buying More)](pages/_page_2026021600-video_short) - 02/16/2026
 - [Restoring the ThinkPad T61 with Windows XP](pages/_page_2026021300-video_short) - 02/13/2026
