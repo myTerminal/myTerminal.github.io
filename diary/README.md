@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [Diving Deeper into the World of Web 3](pages/_page_2026030200-video) - 03/02/2026
 - [Peeking into the World of Web 3](pages/_page_2026022700-video) - 02/27/2026
 - [I Switched to Logseq as My Second Brain (Short)](pages/_page_2026022000-video_short) - 02/20/2026
 - [I Switched to Logseq as My Second Brain](pages/_page_2026021800) - 02/18/2026
