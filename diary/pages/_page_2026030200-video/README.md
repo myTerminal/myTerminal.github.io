@@ -135,7 +135,3 @@ With this change, we do not need to pin content added to MFS, as they are not ga
 ## Conclusion
 
 I can carry a directory with a ready-to-deploy website as a Syncthing folder across my [ThinkPads](https://www.lenovo.com/us/en/c/laptops/thinkpad), and with the script we created, deploying a new version to IPFS would be as simple as a command. Next up would be to explore running backend logic on a decentralized network and I've been reading about [SmartContracts](https://www.ibm.com/think/topics/smart-contracts) and [dApps](https://en.wikipedia.org/wiki/Decentralized_application).
-
-## Outro
-
-That's all I have for this video, and thanks for watching it to the end. May the maker watch over you. See you in the next video!
