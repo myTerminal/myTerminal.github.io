@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [My Growing Appreciation for the ThinkPad X1 Extreme Gen 3](pages/_page_2026030700) - 03/07/2026
 - [Fixing a P14s Gen 2 Taught Me So Much!](pages/_page_2026030600-video_short) - 03/06/2026
 - [Diving Deeper into the World of Web 3](pages/_page_2026030200-video) - 03/02/2026
 - [Peeking into the World of Web 3](pages/_page_2026022700-video) - 02/27/2026
