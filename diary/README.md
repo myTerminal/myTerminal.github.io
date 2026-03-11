@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [My Perfect Computing Setup](pages/_page_2026031400) - 03/14/2026
 - [I'm Proud of My Setup on LibreWolf](pages/2026031300-video) - 03/13/2026
 - [I'm Leaving Firefox Once Again](pages/_page_2026030900-video) - 03/09/2026
 - [My Growing Appreciation for the ThinkPad X1 Extreme Gen 3](pages/_page_2026030700) - 03/07/2026
