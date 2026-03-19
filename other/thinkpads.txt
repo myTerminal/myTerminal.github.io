@@ -1,6 +1,7 @@
 ThinkPad T15g Gen 2
 ThinkPad X1 Nano Gen 1
 ThinkPad X1 Extreme Gen 3
+ThinkPad T14 Gen 1
 ThinkPad T440p
 ThinkPad X201 Tablet
 ThinkPad X301
