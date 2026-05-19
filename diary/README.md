@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [My First AI Assistant Knows Me Better Than a Close Friend](pages/_page_2026051800-video) - 05/18/2026
 - [My Perfect Computing Setup](pages/_page_2026031400) - 03/14/2026
 - [I'm Proud of My Setup on LibreWolf](pages/2026031300-video) - 03/13/2026
 - [I'm Leaving Firefox Once Again](pages/_page_2026030900-video) - 03/09/2026
