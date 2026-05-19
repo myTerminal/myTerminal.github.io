@@ -64,11 +64,3 @@ Finally, now that I can have unlimited private tabs with the same name, Tab Rena
 ## Conclusion
 
 So overall, in exchange for a tiny bit of convenience, I received a browser setup that is more than what I could have asked for. I’m still looking for a Android equivalent for LibreWolf, and there are quite a lot of options to choose from.
-
-## Outro
-
-That's all that I have for this video. Thanks for watching it till the end, may the maker watch over you, see you in the next video!
-
-## References
-
-- https://www.reddit.com/r/LibreWolf/comments/1jdwtds/this_browser_is_legit_painful_to_use/
