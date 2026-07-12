@@ -40,7 +40,7 @@ Apart from the physical discs and the digital licenses I own (yes I do have mult
 2. Multiple thumbnail pictures and cover images all around the web, including [my primary profile picture](https://about.me/mohdismail_ansari) of me wearing the N7 hoodie that I purchased from the BioWare store on my first trip to the United States.
 3. Along with my N7 hoodie, I also have a Commander Shepard Bobblehead I picked up from Hot-Topic, a key-chain for one of the keys for my primary car, my toddler's custom-print T-shirt (courtesy: my brother), and yes, my recently purchased N7 face-mask from Amazon.
 4. Numerous posters, logos, and emblems on my work laptops, desks, cubicles, and endless Mass Effect references I throw in my training and presentations at work
-5. Quotes on [my portfolio site](https://myterminal.me), epigraph on [my first book](https://books2read.com/how-to-stay-sane-with-your-tasks), various references on [my YouTube channel](https://www.youtube.com/myTerminal)
+5. Quotes on [my portfolio site](https://myterminal.me), epigraph on [my first book](https://myterminal.gumroad.com/l/how-to-stay-sane-with-your-tasks), various references on [my YouTube channel](https://www.youtube.com/myTerminal)
 6. [My custom Mass Effect quotes pack](https://github.com/myTerminal/.emacs.d/blob/master/emacs/myTerminal/_zone-quotes-masseffect.el) for [a screensaver I created for Emacs](https://github.com/myTerminal/zone-quotes)
 7. Names of all my electronic gadgets and digital companions including my computers, cellphones, vehicles, etc.
 8. Names of main characters and companions in other video games that I've been playing in the last decade
