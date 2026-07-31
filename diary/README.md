@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I Gave the G-Shock DW-5600 a Visual Upgrade](pages/_page_2026073100-video_short) - 07/31/2026
 - [My Second G-Shock Square is Special](pages/_page_2026073000-video_short) - 07/30/2026
 - [I Finally Fell Down the G-Shock Square Slope](pages/_page_2026071700-video_short) - 07/17/2026
 - [My First AI Assistant Knows Me Better Than a Close Friend](pages/_page_2026051800-video) - 05/18/2026
