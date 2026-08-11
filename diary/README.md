@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I Set Up a Gaming Distro on my T15g Gen 2](pages/_page_2026081100-video_short) - 08/11/2026
 - [Why Is No One Talking About Fulguris?](pages/_page_2026081000-video_short) - 08/10/2026
 - [I Gave the G-Shock DW-5600 a Visual Upgrade](pages/_page_2026073100-video_short) - 07/31/2026
 - [My Second G-Shock Square is Special](pages/_page_2026073000-video_short) - 07/30/2026
