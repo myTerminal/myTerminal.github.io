@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I'm Back to Appreciating Fedora and Its Forks](pages/_page_2026082600-video_short) - 08/26/2026
 - [I Found Something Better than Bazzite, for my Hardware](videos/_page_2026082200-video_short) - 08/22/2026
 - [I May Never Be Able to Leave the Void](pages/_page_2026082100-video_short) - 08/21/2026
 - [I Set Up a Gaming Distro on my T15g Gen 2](pages/_page_2026081100-video_short) - 08/11/2026
