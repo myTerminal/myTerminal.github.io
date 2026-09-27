@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I Didn't Know Keyboards Like These Existed](pages/_page_2026092700-video_short) - 09/27/2026
 - [I'm Back to Appreciating Fedora and Its Forks](pages/_page_2026082600-video_short) - 08/26/2026
 - [I Found Something Better than Bazzite, for my Hardware](videos/_page_2026082200-video_short) - 08/22/2026
 - [I May Never Be Able to Leave the Void](pages/_page_2026082100-video_short) - 08/21/2026
