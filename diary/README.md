@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [I'm Glad I Chose Void Linux (Yet Another Reason)](pages/_page_2026100200-video_short) - 10/02/2026
 - [I Didn't Know Keyboards Like These Existed](pages/_page_2026092700-video_short) - 09/27/2026
 - [I'm Back to Appreciating Fedora and Its Forks](pages/_page_2026082600-video_short) - 08/26/2026
 - [I Found Something Better than Bazzite, for my Hardware](videos/_page_2026082200-video_short) - 08/22/2026
