@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [My Stable Computing Fleet ft. My Home Lab](pages/_page_2026100500-video) - 10/05/2026
 - [The Design Principles Behind My Perfect Computing Setup](pages/_page_2026100300-video_short) - 10/03/2026
 - [I'm Glad I Chose Void Linux (Yet Another Reason)](pages/_page_2026100200-video_short) - 10/02/2026
 - [I Didn't Know Keyboards Like These Existed](pages/_page_2026092700-video_short) - 09/27/2026
