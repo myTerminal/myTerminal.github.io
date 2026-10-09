@@ -2,6 +2,7 @@
 
 ## Phase 7: Back to Form
 
+- [Would You Self-Hosted a Service You Heavily Depend On](pages/_page_2026100900-video_short) - 10/09/2026
 - [My Stable Computing Fleet ft. My Home Lab](pages/_page_2026100500-video) - 10/05/2026
 - [The Design Principles Behind My Perfect Computing Setup](pages/_page_2026100300-video_short) - 10/03/2026
 - [I'm Glad I Chose Void Linux (Yet Another Reason)](pages/_page_2026100200-video_short) - 10/02/2026
