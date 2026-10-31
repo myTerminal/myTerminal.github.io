@@ -2,7 +2,11 @@
 
 ## Phase 8: Conversational
 
+<<<<<<< Updated upstream
 - [Filling Gaps in Minimal Linux Setups](pages/_page_2026102700-video_short) - 10/27/2026
+=======
+- [Evaluating openSUSE as My Secondary Linux Distro](pages/_page_2026103100-video_short) - 10/31/2026
+>>>>>>> Stashed changes
 - [We Compare Linux Distributions the Wrong Way](pages/_page_2026101200-video_short) - 10/12/2026
 - [Would You Self-Hosted a Service You Heavily Depend On](pages/_page_2026100900-video_short) - 10/09/2026
 - [My Stable Computing Fleet ft. My Home Lab](pages/_page_2026100500-video) - 10/05/2026
