@@ -2,6 +2,7 @@
 
 ## Phase 8: Conversational
 
+- [I Finally Found a Linux Distro to Complement Void Linux (You Won't Believe Which One)](pages/_page_2026110100-video) - 11/01/2026
 - [Evaluating openSUSE as My Secondary Linux Distro](pages/_page_2026103100-video_short) - 10/31/2026
 - [Filling Gaps in Minimal Linux Setups](pages/_page_2026102700-video_short) - 10/27/2026
 - [We Compare Linux Distributions the Wrong Way](pages/_page_2026101200-video_short) - 10/12/2026
